@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tartans</key>
+	<array>
+		<dict>Anderson		1182</string><key>code</key><string>K6, DR14, K8, T14, R6, T14, K8, G6, K6, K38, K4, G4, K4, R6</string><key>id</key><string></dict>
+		<dict>Anderson		1348</string><key>code</key><string>R8, A16, K2, R4, A51, K8, W8, K6, Y4, K4, Y4, K12, R4, K12, R4, G16, K2, R4, K2, R16, G8</string><key>id</key><string></dict>
+		<dict>Anderson		1349</string><key>code</key><string>R8, A20, K2, R4, K2, A64, B8, W10, K8, Y4, K4, Y4, K16, R4, B16, G18, K2, R4, K2, G16, R8</string><key>id</key><string></dict>
+		<dict>Anderson		1350</string><key>code</key><string>R6, LB12, K2, R4, K2, LB28, K6, W6, K6, Y4, K4, Y4, K4, R4, DB10, R4, G12, K2, R4, K2, G12, R6</string><key>id</key><string></dict>
+		<dict>Anderson		1392</string><key>code</key><string>R6, A8, R2, K2, R2, A36, B8, W6, K4, Y2, K4, Y2, K8, R2, B8, R4, G12, R2, B2, R4, B2, R2, G12, R6</string><key>id</key><string></dict>
+		<dict>Anderson		1393</string><key>code</key><string>R12, A20, R4, K4, R4, A54, K12, W12, K8, Y4, K6, Y4, K18, R4, K18, R8, G20, R4, K4, R8, K4, R4, G20, R12</string><key>id</key><string></dict>
+		<dict>Anderson		1395</string><key>code</key><string>R4, A6, R2, K2, R2, A36, K4, W4, K4, Y2, K2, Y2, K4, R2, B4, R6, G12, R2, G4, R6, G4, R2, G12, R8</string><key>id</key><string></dict>
+		<dict>Anderson		1397</string><key>code</key><string>R12, A20, R4, K4, R4, A54, K12, W12, K8, Y4, K8, Y4, K16, R4, B16, R8, G20, R4, B4, R8, B4, R4, G20, R12</string><key>id</key><string></dict>
+		<dict>Anderson		1660</string><key>code</key><string>R5, T14, K2, R3, K2, T14, R3, B12, R3, K12, Y3, K3, Y3, K6, Y6, K6, W6, K6, A40, K2, R3, K2, A12, T6</string><key>id</key><string></dict>
+		<dict>Anderson (Dress)		1514</string><key>code</key><string>R4, G8, R4, G8, R2, K4, Y4, K4, Y2, W4, Y2, W24, R4, W10, R6</string><key>id</key><string></dict>
+		<dict>Anderson of Kinneddar, Htg.		1396</string><key>code</key><string>R8, A10, R4, A14, R8, B10, R5, K9, Y4, K4, Y4, K7, W8, K8, G36, R2, K4, R2, G8, R6</string><key>id</key><string></dict>
+		<dict>Arbuthnott		204</string><key>code</key><string>B8, K8, B38, K38, G14, W4, G16, B16, G16, W4, G14, K38, B8, K8, B8, K8, B36</string><key>id</key><string></dict>
+		<dict>Argyll..Campbell		252</string><key>code</key><string>B4, K4, B36, K40, G36, W8, G36, K40, B34, K6</string><key>id</key><string></dict>
+		<dict>Armstrong		793</string><key>code</key><string>G4, K2, G60, K24, B4, K2, B2, K2, B24, R6</string><key>id</key><string></dict>
+		<dict>Austin…or Keith		254</string><key>code</key><string>B8, K8, B8, G18, K4</string><key>id</key><string></dict>
+		<dict>Ayrton		328</string><key>code</key><string>B12, K2, G6, K2, B6, K2, G20, R6</string><key>id</key><string></dict>
+		<dict>Baillie		278</string><key>code</key><string>B28, K4, B4, K4, B4, K28, G26, K3, Y5, K3, G26, K28, B26, K3, R5</string><key>id</key><string></dict>
+		<dict>Baillie		302</string><key>code</key><string>P6, K2, P16, K12, G16, K2, W4</string><key>id</key><string></dict>
+		<dict>Baird		104</string><key>code</key><string>P6, G2, P2, G16, K16, B16, K4, B6</string><key>id</key><string></dict>
+		<dict>Baird		273</string><key>code</key><string>B3, K3, B31, K31, G33, C2, G3, C7</string><key>id</key><string></dict>
+		<dict>Baird…Dress		233</string><key>code</key><string>B8, K8, B46, K24, G20, K2, W46, P4, W4, P8</string><key>id</key><string></dict>
+		<dict>Barclay		705</string><key>code</key><string>G2, DBG32, R2</string><key>id</key><string></dict>
+		<dict>Barclay…Dress		1879</string><key>code</key><string>W2, Y12, K12, Y2</string><key>id</key><string></dict>
+		<dict>Baxter		175</string><key>code</key><string>A2, G32, K2, A4, K2, Y86, K2, A4, K2, R32, W4</string><key>id</key><string></dict>
+		<dict>Bean…Hunting		0</string><key>code</key><string>RB6, DG41, DB20, S15, DG41, S15, DB6</string><key>id</key><string></dict>
+		<dict>Bell…Blackenthouse		370</string><key>code</key><string>B8,, K8, W8, K8, W8, R8, K8</string><key>id</key><string></dict>
+		<dict>Birral…Burrell		658</string><key>code</key><string>P32, W4, R16, LR8, P4, LR8, R16, W4, G64, W4, P16, A8, W4, A8, P16, W4, R130</string><key>id</key><string></dict>
+		<dict>Bisset		1479</string><key>code</key><string>R12, G24, K8, G8, K4, Y4, G8, B12, W4</string><key>id</key><string></dict>
+		<dict>Blair		416</string><key>code</key><string>B12, R4, B40, K32, G40, R40, G12</string><key>id</key><string></dict>
+		<dict>Blair…Dress		483</string><key>code</key><string>B4, R4, B32, K12, G32, R4, G4, R4, G32, K12, W40, R4, W4</string><key>id</key><string></dict>
+		<dict>Boyd		1819</string><key>code</key><string>W4, K4, R4, G4, R48, K24, B4, K4, B4, K4, G24, Y4</string><key>id</key><string></dict>
+		<dict>Brodie		1192</string><key>code</key><string>K6, R30, K22, Y4, K8, R6</string><key>id</key><string></dict>
+		<dict>Brodie		1193</string><key>code</key><string>K4, R32, K16, Y2, K16, R4</string><key>id</key><string></dict>
+		<dict>Brodie (of that Ilk)		1684</string><key>code</key><string>R96, W8, B8, K8, R24, B8, R2, Y8</string><key>id</key><string></dict>
+		<dict>Brodie (Silver)		1630</string><key>code</key><string>R6, LN40, N40, DN40, Y4, DN40, R6</string><key>id</key><string></dict>
+		<dict>Brodie Hunting		1334</string><key>code</key><string>R4, B16, G16, K16, Y2, K16, R4</string><key>id</key><string></dict>
+		<dict>Bruce		1821</string><key>code</key><string>W8, K2, R44, G10, R8, G24, R12, G24, R8, G10, R44, K2, Y8</string><key>id</key><string></dict>
+		<dict>Bruce		1848</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Bruce (Hunting)		1816</string><key>code</key><string>W6, K2, G38, R8, G6, R22, G10, R22, G6, R8, G38, K2, Y6</string><key>id</key><string></dict>
+		<dict>Bruce (Old)		876</string><key>code</key><string>G30, R4, G4, R40, P4, R4, P15, R4, P4, R4, G48, R4, P4, R45</string><key>id</key><string></dict>
+		<dict>Bruce of Kinnaird		1483</string><key>code</key><string>R48, G44, K4, W12, K4,</string><key>id</key><string></dict>
+		<dict>Buchan		1149</string><key>code</key><string>K4, R4, G54, K12, B4, R12, G12, R4, K48, R4, B4, K4, R4, K48, R4, G12, R12, B4, K12, R4, G54, R4, K4</string><key>id</key><string></dict>
+		<dict>Buchanan		171</string><key>code</key><string>A4, G32, K2, A4, K2, Y8, K2, Y8, K2, A4, K2, R32, W4</string><key>id</key><string></dict>
+		<dict>Buchanan		172</string><key>code</key><string>A6, G62, K4, A8, K4, Y16, K4, Y16, K4, A8, K4, R62, W6</string><key>id</key><string></dict>
+		<dict>Buchanan		173</string><key>code</key><string>A4, G24, K2, A4, K2, Y66, K2, Y66, K2, A4, K2, R24, W4</string><key>id</key><string></dict>
+		<dict>Buchanan		174</string><key>code</key><string>A8, G50, K4, Y16, K6, Y16, K4, A8, K4, R50, W8</string><key>id</key><string></dict>
+		<dict>Buchanan		1261</string><key>code</key><string>K2, W18, C8, W4, C8, W4</string><key>id</key><string></dict>
+		<dict>Buchanan		1913</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Buchanan		1947</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Buchanan		1948</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Buchanan		2019</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Buchanan (Dress Blue)		1672</string><key>code</key><string>R6, W66, B32, W10, B32, W10</string><key>id</key><string></dict>
+		<dict>Buchanan (Dress)		608</string><key>code</key><string>A6, T68, K4, N8, K4, Y14, K4, Y14, K4, N8, K4, W68, R6</string><key>id</key><string></dict>
+		<dict>Buchanan (Hunting)		604</string><key>code</key><string>B6, T28, G28, T4, B28, T4, B28, T4, G28, T4, R6</string><key>id</key><string></dict>
+		<dict>Buchanan (Old Dress)		1254</string><key>code</key><string>K80, W50, K20, Y16, K6, Y16, K20, R50, W8</string><key>id</key><string></dict>
+		<dict>Cameron		431</string><key>code</key><string>B14, R6, B18, R4, K20, G18, R6, G4, R4, G14</string><key>id</key><string></dict>
+		<dict>Cameron		1538</string><key>code</key><string>R4, G12, R4, G12, R32, Y2</string><key>id</key><string></dict>
+		<dict>Cameron		1745</string><key>code</key><string>T30, R10, T60, B64, T8, Y6</string><key>id</key><string></dict>
+		<dict>Cameron (Ancient)		1517</string><key>code</key><string>R6, G16, R12, G16, R6, Y3, R58</string><key>id</key><string></dict>
+		<dict>Cameron (Hunting)		1535</string><key>code</key><string>CL6, RG20, CL6, RG28, B32, G6, Y4</string><key>id</key><string></dict>
+		<dict>Cameron of Locheil		405</string><key>code</key><string>B8, R2, B2, R36, B20, R2, G2, R12, G20, R12, W2, R8, B2</string><key>id</key><string></dict>
+		<dict>Cameron of Locheil		1138</string><key>code</key><string>K6, R8, B4, R40, B40, R4, G4, R12, G20, R12, W4, R6, K4</string><key>id</key><string></dict>
+		<dict>Cameron of Lochiel		1398</string><key>code</key><string>R8, B16, R4, B2, W2, B2, R12, G6, R12</string><key>id</key><string></dict>
+		<dict>Campbell		1</string><key>code</key><string>B2,4 K4, B4, K4, B4, K20, G24, K6, G24, K20, B22, K4, B4</string><key>id</key><string></dict>
+		<dict>Campbell		19</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Campbell		1962</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Campbell (Hunting)		16</string><key>code</key><string>R6, K2, G42, K38, B38, K6, B6, K6, B38, K38, G42, K2, W6</string><key>id</key><string></dict>
+		<dict>Campbell (Red)		1592</string><key>code</key><string>R4, K44, R48, K2, R8</string><key>id</key><string></dict>
+		<dict>Campbell (Sir Walter Scott)		10</string><key>code</key><string>K4, P14, K18, B4, G16, K4</string><key>id</key><string></dict>
+		<dict>Campbell (The White Stripe)		8</string><key>code</key><string>B4, K4, B24, K22, G24, W4</string><key>id</key><string></dict>
+		<dict>Campbell of Argyll		9</string><key>code</key><string>B2, K2, B16, K16, G16, K2, Y4, K2, G16, K16, B2, K2, B2, K2, B16, K2, B2, K2, B2, K16, G16, K2, W4, K2, G16, K16, B16, K2, B2</string><key>id</key><string></dict>
+		<dict>Campbell of Argyll		1961</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Campbell of Breadalbane		208</string><key>code</key><string>B16, K2, B2, K2, B2, K16, Y2, G28, Y2, K16, B16, K2, B2</string><key>id</key><string></dict>
+		<dict>Campbell of Breadalbane		209</string><key>code</key><string>B52, K8, B8, K8, B8, K54, Y10, G94, Y10, K54, B50, K8, B8</string><key>id</key><string></dict>
+		<dict>Campbell of Breadalbane		1046</string><key>code</key><string>K6, B18, K18, G18, Y4, G18, K18</string><key>id</key><string></dict>
+		<dict>Campbell of Cawdor		2</string><key>code</key><string>AA4, K2, G16, K16, B16, K2, R4</string><key>id</key><string></dict>
+		<dict>Campbell of Glenlyon		14</string><key>code</key><string>B4, K2, B14, K12, G14</string><key>id</key><string></dict>
+		<dict>Campbell of Loch Neil		1963</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Campbell of Lochawe		13</string><key>code</key><string>K4, B22, K52, G22, K4</string><key>id</key><string></dict>
+		<dict>Campbell of Loudoun		3</string><key>code</key><string>Y4, K2, G24, K24, B24, K2, B4, K2, B24, K24, G24, K2, W4</string><key>id</key><string></dict>
+		<dict>Carnegie		497</string><key>code</key><string>B20, R4, B4, R8, B24, R4, K28, W26, R8, W4, R4, W8, R2, Y6</string><key>id</key><string></dict>
+		<dict>Chattan		1620</string><key>code</key><string>R72, K4, W2, G36, W2, T4, Y4, R6, K2, R6, Y4, T4, W2, A36, K10, R8, Y10, T4, W4</string><key>id</key><string></dict>
+		<dict>Chattan		1625</string><key>code</key><string>R22, K2, W2, G8, W2, Y2, R2, K2, R2, Y2, W2, G8, W2, K2, R2, Y6</string><key>id</key><string></dict>
+		<dict>Chattan		1852</string><key>code</key><string>W4, R10, K6, W4, G60, W6, Y12, R10, K4, R10, Y12, W6, N56, K14, R16, Y20, W8</string><key>id</key><string></dict>
+		<dict>Chattan (Chief)		1851</string><key>code</key><string>W2, R60, K4, W2, G32, W4, Y7, R7, K2, R7, Y7, W4, A32, K8, R8, Y12</string><key>id</key><string></dict>
+		<dict>Cheape		210</string><key>code</key><string>B12, K2, B2, K2, B2, K12, G12, A4, G12, K12, B12, K2 B4</string><key>id</key><string></dict>
+		<dict>Chisholm		1456</string><key>code</key><string>R8, G42, B6, R8, B6, G6, B12, R74, W4, R24</string><key>id</key><string></dict>
+		<dict>Chisholm		1475</string><key>code</key><string>R2, G24, K2, G4, K2, G4, B12, R48, W2, R12</string><key>id</key><string></dict>
+		<dict>Chisholm (Hunting)		1457</string><key>code</key><string>C6, G32, B4, G6, B4, G6, B14, C64, W4, C14</string><key>id</key><string></dict>
+		<dict>Chisholm (Hunting)		1458</string><key>code</key><string>R2, G24, B2, G4, B2, G4, B12, T48, W2, T12</string><key>id</key><string></dict>
+		<dict>Chisholm (The)		532</string><key>code</key><string>B2, R6, G16, R6, B4, W2, B4, R24</string><key>id</key><string></dict>
+		<dict>Chisholm (The)		1454</string><key>code</key><string>R2, G24, B2, G4, B2, G4, B12 R48, W2, R12</string><key>id</key><string></dict>
+		<dict>Chisholm of Strathglass		1455</string><key>code</key><string>R8, G24, B6, G6, B6, G6, B12, R72, W4, R14</string><key>id</key><string></dict>
+		<dict>Cian (Clan)		47</string><key>code</key><string>B31, DB2, A2, B20, DB8, T16, LR8, B14, A2, DB2, Y4</string><key>id</key><string></dict>
+		<dict>Clark		40</string><key>code</key><string>A8, B20, A8, B14, A8, K30, A8, K30, B28, A8, K8</string><key>id</key><string></dict>
+		<dict>Clark		633</string><key>code</key><string>B8, W8, B38, K38, W8, K38, W8, B14, W8, B22, W8</string><key>id</key><string></dict>
+		<dict>Clark (Clerk)		329</string><key>code</key><string>B12, K4, G4, K4, R12</string><key>id</key><string></dict>
+		<dict>Clergy		111</string><key>code</key><string>B2, G2, B12, K12, G2, K12, G2, B4, K2, B6, G2</string><key>id</key><string></dict>
+		<dict>Clergy		112</string><key>code</key><string>B8, G8, B36, K38, G8, B14, G8, B24, G4</string><key>id</key><string></dict>
+		<dict>Clergy		1312</string><key>code</key><string>N2, W2, N12, K12, W2, K12, W2, N2, W2, N6, W2</string><key>id</key><string></dict>
+		<dict>Clergy (or Priest)		246</string><key>code</key><string>LB4, K16, LB4, LV8, LB4, K32, LB4, K32, LV28, LB4, K4</string><key>id</key><string></dict>
+		<dict>Cochrane		485</string><key>code</key><string>A54, R8, A6, R4, A8, R4, A6, R8, A28, K28, R4, B28, R8, B8, Y6</string><key>id</key><string></dict>
+		<dict>Cochrane		99999</string><key>code</key><string>G32, R4, G4, R2, G6, R2, G4, R4, G24, K24, R2, B32, R4, B16, Y4</string><key>id</key><string></dict>
+		<dict>Cochrane (1974)		977</string><key>code</key><string>G44, R8, G4, R4, G4, R8, G24, K24, R4, B20, R8, B8, Y6</string><key>id</key><string></dict>
+		<dict>Cochrane (1984)		978</string><key>code</key><string>G68, R8, G8, R4, G8, R4, G6, R8, G34, K34, R4, B34, R8, B8, Y6</string><key>id</key><string></dict>
+		<dict>Cockburn		330</string><key>code</key><string>B30, K2, G2, K2, G2, K2, B10, K2, W2, K2, B10, K2, Y2, G10, K2, R2</string><key>id</key><string></dict>
+		<dict>Cockburn		798</string><key>code</key><string>G72, K2, G2, K2, G2, K2, B24, K2, W2, K2, B24, K2, Y2, K2, G24, K4, R4</string><key>id</key><string></dict>
+		<dict>Cockburn		1573</string><key>code</key><string>R10, K4, G50, K12, B62, K4, W10, K4, B62, K12, G4, K4, G4, K4, G172, K4, G4, K4, G4, K12, B62, K4, W10, K4, B62, K4, Y10, K4, G60, K4, R10</string><key>id</key><string></dict>
+		<dict>Cockburn		1576</string><key>code</key><string>R6, K4, G18, B24, W6, B24, G4, K4, G4, K4, G72, K4, G4, K4, G4, B24, W6, B24, K6, Y6, K4, G24, K4, R6, K4, G12, W6</string><key>id</key><string></dict>
+		<dict>Cockburn (Old Pattern)		1578</string><key>code</key><string>R12, K2, G68, K4, Y8, K10, B10, K2, W10, K2, B68, K10, G4, K4, G4, K4, G172, K4, G4, K4, G4, K10, B68, K2, W10</string><key>id</key><string></dict>
+		<dict>Colquhoun		270</string><key>code</key><string>B8, K4, B32, W2, K16, G48, R8</string><key>id</key><string></dict>
+		<dict>Colquhoun		274</string><key>code</key><string>B2, K2, B16, K16, W2, G16, R4</string><key>id</key><string></dict>
+		<dict>Colquhoun		275</string><key>code</key><string>P12, K6, P42, K46, W6, G48, R6</string><key>id</key><string></dict>
+		<dict>Colquhoun		1960</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Comyn		2012</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Comyn (Cumming)		288</string><key>code</key><string>A16, K8, A16, K40, Y4, G40, R16, W4, R16</string><key>id</key><string></dict>
+		<dict>Connel		1854</string><key>code</key><string>W2, R16, K16, Y2</string><key>id</key><string></dict>
+		<dict>Cranstoun		706</string><key>code</key><string>LG28, B2, LG2, B2, LG6, B12, G24, R4</string><key>id</key><string></dict>
+		<dict>Crawford		1515</string><key>code</key><string>C6, G24, C6, G24, C60, W4, C12</string><key>id</key><string></dict>
+		<dict>Cree		1856</string><key>code</key><string>W6, R6, K6, R10, G14, K4, W6, K4, Y6, K14, B4, DT44, Y6</string><key>id</key><string></dict>
+		<dict>Cumming		508</string><key>code</key><string>B6, R6, G40, R6, B24, A2, R24, G24, R6, B40, R6, B40, R6, A2, B6, R6, B40, R6, G24, R20, A2, B24, R6, G20</string><key>id</key><string></dict>
+		<dict>Cumming		1902</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Cumming (Comyn)		1158</string><key>code</key><string>K4, R48, G8, R4, G8, R8, G16, W2, G16, R8</string><key>id</key><string></dict>
+		<dict>Cumming (of Glenorchy)		507</string><key>code</key><string>B6, R6, G40, R6, B24, A2, R24, G24, R6, B40, R6, B40, R6, A2, B6, R6, B40, R6, G24, R16, A2, B24, R6, G68</string><key>id</key><string></dict>
+		<dict>Cunningham		1200</string><key>code</key><string>K6, R2, K60, R56, B2, R2, W6</string><key>id</key><string></dict>
+		<dict>Cunningham (Burgundy Dress)		563</string><key>code</key><string>W10, R4, W68, R68, K4, R4, B8</string><key>id</key><string></dict>
+		<dict>Cunningham (Burgundy Dress)		1873</string><key>code</key><string>W10, R4, W68, R68, K4, R4, Y8</string><key>id</key><string></dict>
+		<dict>Currie		499</string><key>code</key><string>A16, R2, G6, R8, G6, R2, G48, Y8, B2, W6, B32</string><key>id</key><string></dict>
+		<dict>Dalmeny		289</string><key>code</key><string>B16, K2, B16, K4, G12, R2, G12, K4, B16, W2</string><key>id</key><string></dict>
+		<dict>Davidson		1332</string><key>code</key><string>R4, B24, G4, B4, G24, K4, G24, K4, G4, K24, R4</string><key>id</key><string></dict>
+		<dict>Davidson		1364</string><key>code</key><string>R4, B24, K12, G24, W4</string><key>id</key><string></dict>
+		<dict>Davidson (Double)		444</string><key>code</key><string>B6, R4, B16, K16, G16, K6, W4, K6</string><key>id</key><string></dict>
+		<dict>Davidson (Half)		1076</string><key>code</key><string>K6, G44, B6, G6, B38, R6</string><key>id</key><string></dict>
+		<dict>Davidson of Tulloch		1360</string><key>code</key><string>R6, B35, K36, B36, W6</string><key>id</key><string></dict>
+		<dict>Deas		2154</string><key>code</key><string>G42, K4, R16, K12, R16, K4, B42, K4, B4, K24,Y6, K24, G4 ,K4</string><key>id</key><string></dict>
+		<dict>Denny (Hunting)		518</string><key>code</key><string>B2, R32, G12, K2, G12, K2</string><key>id</key><string></dict>
+		<dict>Douglas		1029</string><key>code</key><string>K24, B6, G46, K46, R6</string><key>id</key><string></dict>
+		<dict>Douglas		1032</string><key>code</key><string>K4, A4, G16, B16, W2</string><key>id</key><string></dict>
+		<dict>Douglas		1127</string><key>code</key><string>K32, N2, K2, N2, K16, N32, K2, N4</string><key>id</key><string></dict>
+		<dict>Douglas (Ancient Dress)		1310</string><key>code</key><string>N4, W8, K4, W22, K16, N6, K4, Y6, K4, R6, N10, K2, N10, K4, N2, K12, N2, K12, R12,</string><key>id</key><string></dict>
+		<dict>Drummond		457</string><key>code</key><string>B4, R12, B4, R6, G48, R4, G4, R4, B18, R4, A4, R56, B4, R4, B2, R12</string><key>id</key><string></dict>
+		<dict>Drummond		523</string><key>code</key><string>B48, R14, G14, R78, B8, R4, B4, R10, G84, R14, B12, R14</string><key>id</key><string></dict>
+		<dict>Drummond		897</string><key>code</key><string>G8, R2, G2, R56, G16, K2, G2, K2, G36, R2, G2, R8</string><key>id</key><string></dict>
+		<dict>Drummond (Ancient)		1711</string><key>code</key><string>R76, Y2, B6, W2, G26, R12, B6, A6, W2</string><key>id</key><string></dict>
+		<dict>Drummond (Ancient)		1716</string><key>code</key><string>R76, Y4, K8, A4, G28, R8, K4, A4, W4</string><key>id</key><string></dict>
+		<dict>Drummond (Grey)		1125</string><key>code</key><string>K8, LN4, K4, DN28, LN4, K4, LN4, K8, DN4, K32, LN4, K4, LN2, K8</string><key>id</key><string></dict>
+		<dict>Drummond of Perth		1669</string><key>code</key><string>R72, W2, B6, Y2, G32, R16, B6, A4, W2</string><key>id</key><string></dict>
+		<dict>Drummond of Perth		1715</string><key>code</key><string>R102, Y4, K8, W4, G42, R20, K8, A8, W4</string><key>id</key><string></dict>
+		<dict>Drummond of Perth (Dress)		1717</string><key>code</key><string>R80, Y2, K4, N2, W30, R10, K10, N10, W2</string><key>id</key><string></dict>
+		<dict>Drummond of Perth (Dress)		1719</string><key>code</key><string>R82, Y6, N14, B6, W48, R20, N14, B14, W6</string><key>id</key><string></dict>
+		<dict>Drummond of Perth (Dress)		1720</string><key>code</key><string>R134, Y6, DN12, LN6, W50, R20, DN12, LN14, W6</string><key>id</key><string></dict>
+		<dict>Drummond of Strathallan		671</string><key>code</key><string>W6, G10, Y6, K6, R10, W6, R10, W6, R10, K6, Y6, G26, K6, G26, K6, G26, Y6, K6, R10, W6, R10, W6, R10, K26, W2, B6, W2, K26, Y16, G10, Y6, G10, Y16, B6, R6, K6, R6, W26, B2, W2, R2, W26, B2, W2, R2, K2, R26, B6, Y6, G6</string><key>id</key><string></dict>
+		<dict>Duncan (or Leslie of Wardis)		1112</string><key>code</key><string>K8, G42, W6, G42, B42, R8</string><key>id</key><string></dict>
+		<dict>Dundas		501</string><key>code</key><string>B9, R24, G24, K24, B24, Y2, B9</string><key>id</key><string></dict>
+		<dict>Dundas		1041</string><key>code</key><string>K8, B32, K24, G48, R2, G4, K4</string><key>id</key><string></dict>
+		<dict>Dundas (Red)		237</string><key>code</key><string>A6, K2, LP2, R10, G48, R4, K2, A2, R4, B10, R4, A2, K2, R38, K2, LP2, R8, G8</string><key>id</key><string></dict>
+		<dict>Dunlop		1197</string><key>code</key><string>K6, R2, K60, W2, B56, R2, B2, W6</string><key>id</key><string></dict>
+		<dict>Dunlop		1205</string><key>code</key><string>K6, R2, K60, W2, T56, G2, T2, W6</string><key>id</key><string></dict>
+		<dict>Dyce		291</string><key>code</key><string>B18, K2, B2, K2, B2, K16, G16, Y2, K2, Y2, G16, K16, B16, W2</string><key>id</key><string></dict>
+		<dict>Dyce		297</string><key>code</key><string>W6, K2, B32, K32, G24, Y4, K4, Y4, G24, K24, B4, K4, B4, K4, B32</string><key>id</key><string></dict>
+		<dict>Elliot		596</string><key>code</key><string>B32, M8, B6, R2</string><key>id</key><string></dict>
+		<dict>Elphinstone		115</string><key>code</key><string>P6, G2, P6, G24</string><key>id</key><string></dict>
+		<dict>Erskine		891</string><key>code</key><string>R8, G2, R56, G48, R2, G12</string><key>id</key><string></dict>
+		<dict>Erskine		1185</string><key>code</key><string>K12, R6, K56, R56, K6, R12</string><key>id</key><string></dict>
+		<dict>Erskine		1187</string><key>code</key><string>K62, R8, K94, R94, K8, R62</string><key>id</key><string></dict>
+		<dict>Erskine		1246</string><key>code</key><string>K12, W6, K54, W54, K6, W12</string><key>id</key><string></dict>
+		<dict>Erskine (Dress)		632</string><key>code</key><string>B12, W4, B58, W58, B4, W12</string><key>id</key><string></dict>
+		<dict>Erskine (Green)		941</string><key>code</key><string>G12, W4, G58, W58, G4, W12</string><key>id</key><string></dict>
+		<dict>Erskine (Red)		1700</string><key>code</key><string>R12, W4, R58, W58, R4, W12</string><key>id</key><string></dict>
+		<dict>Farquharson		1352</string><key>code</key><string>R4, B8, K2, B2, K2, B2, K16, G16, Y4, G16, K16, B16, K2, R4</string><key>id</key><string></dict>
+		<dict>Farquharson		1957</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Farquharson		1967</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Ferguson		738</string><key>code</key><string>G8, B48, R6, K48, G50, K8</string><key>id</key><string></dict>
+		<dict>Ferguson		1952</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Ferguson (Dress)		92</string><key>code</key><string>A68, DB48, W36, R6, W36, G4, W6</string><key>id</key><string></dict>
+		<dict>Ferguson (Dress)		371</string><key>code</key><string>B68, K42, W32, C5, W32, DG4, W6</string><key>id</key><string></dict>
+		<dict>Ferguson (Old)		503</string><key>code</key><string>B30, R4, G34</string><key>id</key><string></dict>
+		<dict>Ferguson (Unidentified)		338</string><key>code</key><string>P144, K80, G46, R8, G46, K4, W8</string><key>id</key><string></dict>
+		<dict>Ferguson of Athol		337</string><key>code</key><string>B48, K16, G16, R4, G16, K2, W4</string><key>id</key><string></dict>
+		<dict>Ferguson of Balquhidder		737</string><key>code</key><string>G4, B24, R2, K24, G24, K4</string><key>id</key><string></dict>
+		<dict>Ferguson of Balquhidder		1068</string><key>code</key><string>K6, B24, R4, K24, G24, K6</string><key>id</key><string></dict>
+		<dict>Fiddes		121</string><key>code</key><string>P16, G16, P16, R64, LR6, P24, R22, G24</string><key>id</key><string></dict>
+		<dict>Fiddes		122</string><key>code</key><string>B24, G16, B16, R40, B14, R12, B8, R12, B32, R24, G32</string><key>id</key><string></dict>
+		<dict>Fitzgerald		576</string><key>code</key><string>B6, R8, W6, R30, B8, R8, B26, R8, G26, R8, B8, R30, W6, R8, B6</string><key>id</key><string></dict>
+		<dict>Fletcher		224</string><key>code</key><string>B22, K6, B6, K6, B6, K22, R6, G26, K6, G26, R6, K22, B22, K6, B6</string><key>id</key><string></dict>
+		<dict>Fletcher		257</string><key>code</key><string>B12, K2, B12, K16, R2, G16, K4</string><key>id</key><string></dict>
+		<dict>Fletcher of Dunans		272</string><key>code</key><string>B12, K2, B12, K16, R2, G16, R4</string><key>id</key><string></dict>
+		<dict>Forbes		211</string><key>code</key><string>B16, K2, B4, K2, B4, K12, G16, K2, W4, K2, G16, K12, B16, K2, B4</string><key>id</key><string></dict>
+		<dict>Forbes		213</string><key>code</key><string>B34, K6, B6, K6, B6, K32, G30, K4, W6, K4, G30, K32, B32, K6, B6</string><key>id</key><string></dict>
+		<dict>Forbes		300</string><key>code</key><string>B16, K4, B4, K4, B4, K16, G14, K2, W2</string><key>id</key><string></dict>
+		<dict>Forbes		301</string><key>code</key><string>B2, K2, B12, K12, G12, K2, W2</string><key>id</key><string></dict>
+		<dict>Forbes		304</string><key>code</key><string>B56, K6, B12, K6, B12, K40, T56, K6, W12</string><key>id</key><string></dict>
+		<dict>Forbes		1490</string><key>code</key><string>R2, G32, K16, G8, K8, Y2</string><key>id</key><string></dict>
+		<dict>Forbes (Ancient)		212</string><key>code</key><string>B2, K12, B12, K12, G12, K2, W2</string><key>id</key><string></dict>
+		<dict>Forbes (Dress)		293</string><key>code</key><string>B4, K4, B16, K16, G24, K2, W4, K2, G24, K16, W6, B6, W28, B4, W4</string><key>id</key><string></dict>
+		<dict>Forsyth		1122</string><key>code</key><string>K8, G44, Y4, K32, B36, R8</string><key>id</key><string></dict>
+		<dict>Fraser		1424</string><key>code</key><string>R2, DB12, R2, DG12, R24, W2</string><key>id</key><string></dict>
+		<dict>Fraser (Arisaid)		615</string><key>code</key><string>B6, W4, B20, G20, W64, G20, W4, B6, W4, B28</string><key>id</key><string></dict>
+		<dict>Fraser (Arisaid)		616</string><key>code</key><string>NB6, W4, NB20, WR20, W64, WR20, W4, NB6, W4, NB28</string><key>id</key><string></dict>
+		<dict>Fraser (Dress)		1228</string><key>code</key><string>K4, W27, G14, R6, K14, R6</string><key>id</key><string></dict>
+		<dict>Fraser (Hunting (Dress))		603</string><key>code</key><string>B8, T48, G34, T6, W36, T6, W36, T6, G34, T48, R8</string><key>id</key><string></dict>
+		<dict>Fraser (Hunting)		1659</string><key>code</key><string>R6, T36, G20, T4, B20, T4, B20, T4, G20, T36, W6</string><key>id</key><string></dict>
+		<dict>Fraser (Red Dress)		1427</string><key>code</key><string>W8, R20, W50, G38, R8, B36, R8</string><key>id</key><string></dict>
+		<dict>Fraser (Stewart of Athol)		392</string><key>code</key><string>B2, R2, B24, G24, R32, G4, R32, G24, R2, B2, R2, B32</string><key>id</key><string></dict>
+		<dict>Fraser (Stewart of Athol)		393</string><key>code</key><string>B6, R6, B44, G40, R60, G8, R60, G40, R6, B6, R6 ,B56</string><key>id</key><string></dict>
+		<dict>Fraser (Yellow)		617</string><key>code</key><string>W4, Y32, G12, Y4, B12, Y4</string><key>id</key><string></dict>
+		<dict>Fraser of Altyre		528</string><key>code</key><string>B4, R4, G80, R4, B4, R4, B9, R9, B80, R4, B4, R89, B4, R9</string><key>id</key><string></dict>
+		<dict>Fraser of Lovat		391</string><key>code</key><string>B2, R2, B24, G24, R32, W4, R32, G24, R2, B2, R2, B32</string><key>id</key><string></dict>
+		<dict>Galbraith		3006</string><key>code</key><string>K4, G24, K24, R2, B24, W4</string><key>id</key><string></dict>
+		<dict>Gayre		164</string><key>code</key><string>B36, G8, K8, W8, G32, B8, G32, W8, K8, R10, G8, W8, G8, R10, K8</string><key>id</key><string></dict>
+		<dict>Gayre (Arisaidh)		176</string><key>code</key><string>B40, G10, K10, W44, K4, Y4, K4, R12, G8, W8, G6, R8, K4, Y4</string><key>id</key><string></dict>
+		<dict>Gayre (Dress)		161</string><key>code</key><string>A28, G8, K8, W8, G24, A8, G24, W8, K8, R12, G8, W8, G6, A8, K8</string><key>id</key><string></dict>
+		<dict>Gayre (Hunting)		165</string><key>code</key><string>B32, G8, K8, N44, B10, N44, K6, R10, G8, N8, G8, R8, K8</string><key>id</key><string></dict>
+		<dict>Gillies		309</string><key>code</key><string>B64, K24, B24, G12, R12, G36, K4, Y6</string><key>id</key><string></dict>
+		<dict>Gillies		324</string><key>code</key><string>B176, K30, G18, R24, G40, K6, Y16, K6, G40, R24, G18, K30, B48, K72</string><key>id</key><string></dict>
+		<dict>Gillies (Blue Dress)		934</string><key>code</key><string>G4, W8, G4, W56, K26, A20, Y10, A32, K4, R14</string><key>id</key><string></dict>
+		<dict>Gillies (Dress Blue)		637</string><key>code</key><string>Y12, K4, A30, R10, A18, K26, W50, B4, W6, B4</string><key>id</key><string></dict>
+		<dict>Gillies (Dress Green)		638</string><key>code</key><string>A4, W6, A4, W50, K24, G16, R12, G30, K4, Y12</string><key>id</key><string></dict>
+		<dict>Gillies (Dress Red)		639</string><key>code</key><string>A4, W8, A4, W48, K24, R16, G10, R30, K4, Y12</string><key>id</key><string></dict>
+		<dict>Gow		1390</string><key>code</key><string>R16, DG16, R4, B16, R16</string><key>id</key><string></dict>
+		<dict>Graham		786</string><key>code</key><string>G24, K8, G2, K8</string><key>id</key><string></dict>
+		<dict>Graham (Dress)		1787</string><key>code</key><string>W4, B4, W57, B5, W5, K30, G4, A5, G66, A5, G4, K27, B30, K5, B27, K30, W5, B5, W60, B4, W4</string><key>id</key><string></dict>
+		<dict>Graham of Menteith		698</string><key>code</key><string>G36, A4, G8, K28, B24, K6</string><key>id</key><string></dict>
+		<dict>Graham of Menteith (Red)		1053</string><key>code</key><string>K8, B32, K32, R8, A6, R52</string><key>id</key><string></dict>
+		<dict>Graham of Montrose		746</string><key>code</key><string>G8, B30, W4, K32, G38, K8</string><key>id</key><string></dict>
+		<dict>Graham of Montrose		1044</string><key>code</key><string>K4, B16, K16, G16, W4, G16, K16</string><key>id</key><string></dict>
+		<dict>Graham of Montrose		1116</string><key>code</key><string>K8, G8, W2, G8, K8, B8, K2, B8, K8, G8, W2</string><key>id</key><string></dict>
+		<dict>Grant		312</string><key>code</key><string>B48, K8, B8, K8, B8, K48, G48, R10, G12, K4, Y4</string><key>id</key><string></dict>
+		<dict>Grant		1386</string><key>code</key><string>R12, P4, R4, P4, R48, A4, R4, P12, R4, G4, R4, G10, R4, P4, B12</string><key>id</key><string></dict>
+		<dict>Grant (Hunting)		311</string><key>code</key><string>B22, K4, B4, K4, B4, K22, G22, R4, G6, K2, Y6</string><key>id</key><string></dict>
+		<dict>Grant of Achnarrow		1829</string><key>code</key><string>W24, K6, W56, G12, K8, W4, K4, W28, R22, G6, R8, W8</string><key>id</key><string></dict>
+		<dict>Grant of Ballindalloch		2149</string><key>code</key><string>R10, NB6, R6, NB10, R24, LB10, R6, NB20, R6, G6, R6, G32, R6, NB10, R10</string><key>id</key><string></dict>
+		<dict>Grant of Monymusk		1495</string><key>code</key><string>R24, G6, R24, B16, R10, B16, R8, G28, R8, G28, R8, G28, R24</string><key>id</key><string></dict>
+		<dict>Grant of Monymusk		1497</string><key>code</key><string>R24, G6, R24, K18, R10, B32, R8, G32, R6, G32, R6, G32, R24</string><key>id</key><string></dict>
+		<dict>Grant of Rothiemurchus		1399</string><key>code</key><string>R8, B4, R4, B4, R112, B32, R8, G2, R8, G72, R6, G2, R8</string><key>id</key><string></dict>
+		<dict>Grant or Drummond		1384</string><key>code</key><string>R12, B2, R4, B4, R64, A2, R4, B16, R4, G4, R4, G48, R4, B4, R12</string><key>id</key><string></dict>
+		<dict>Grant or New Bruce		1385</string><key>code</key><string>R12, P2, R4, P4, R39, A2, R4, P11, R6, G4, R6, G45, R4, P4, B10</string><key>id</key><string></dict>
+		<dict>Gunn		708</string><key>code</key><string>G2, B24, G2, K24, G24, R4</string><key>id</key><string></dict>
+		<dict>Gunn		795</string><key>code</key><string>G4, K24, G2, K24, G24, R4</string><key>id</key><string></dict>
+		<dict>Hamilton (Hunting)		138</string><key>code</key><string>B22, G4, B30, G36, W4</string><key>id</key><string></dict>
+		<dict>Hamilton (Hunting)		139</string><key>code</key><string>B40, G16, B40, G64, W8</string><key>id</key><string></dict>
+		<dict>Hamilton (Red)		477</string><key>code</key><string>B12, R2, B12, R18, W2</string><key>id</key><string></dict>
+		<dict>Hay		1555</string><key>code</key><string>R9, G6, Y4, G54, R4, G4, R4, G18, R72, G6, R4, K2, R4, W9</string><key>id</key><string></dict>
+		<dict>Hay		2013</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Hay or Leith		1215</string><key>code</key><string>K6, R2, Y2, K4, R32, G4, G4, R2, Y2, R4, G30, W2, K30, R2, P30, R4, Y2, R2, P4, R32, K4, Y2, R2, K6</string><key>id</key><string></dict>
+		<dict>Hay or Stewart		1850</string><key>code</key><string>W4, R6, K6, R12, G24, K6, W6, K6, Y4, K20, W58, R10, W18</string><key>id</key><string></dict>
+		<dict>Henderson (MacKendrick)		1762</string><key>code</key><string>W2, B12, G8, B2, G32, K2, G8, K12, Y2</string><key>id</key><string></dict>
+		<dict>Home or Hume		127</string><key>code</key><string>B6, G4, B48, K16, R2, K4, R2, K56</string><key>id</key><string></dict>
+		<dict>Home or Hume		128</string><key>code</key><string>B3, G6, B72, K18, R6, K6, R6, K72</string><key>id</key><string></dict>
+		<dict>Hume or Home		125</string><key>code</key><string>B6, G6, B40, R4, K4, R4, K40, G6, K6</string><key>id</key><string></dict>
+		<dict>Hunter		789</string><key>code</key><string>G16, K2, G16, K16, R2, B16, W2, B16, R2, K16</string><key>id</key><string></dict>
+		<dict>Hunter		1095</string><key>code</key><string>K4, G24, K24, R2, B24, W4</string><key>id</key><string></dict>
+		<dict>Hunter of Hunterson		719</string><key>code</key><string>G10, B4,4 G24, R4, B24, W4, G24, R4, G8, Y6</string><key>id</key><string></dict>
+		<dict>Innes		235</string><key>code</key><string>A2, K12, A2, G14, K2, G14</string><key>id</key><string></dict>
+		<dict>Innes		1109</string><key>code</key><string>K4, G24, R4, K4, R4, K4, R32, Y4, R6, B12, R16, K2, G16, K2, R6, W4</string><key>id</key><string></dict>
+		<dict>Innes (Dress)		360</string><key>code</key><string>A8, K24, R4, K4, R4, K4, W4, Y24, W4, B6, W12, K6, G4, K4, W6, R4</string><key>id</key><string></dict>
+		<dict>Innes (Hunting)		367</string><key>code</key><string>A6, K36, T6, K8, T6, K6, T36, Y6, T6, B16, T6, B6, G30, K6, T6, W6</string><key>id</key><string></dict>
+		<dict>Innes (Hunting)		368</string><key>code</key><string>K10, G72, B14, K60</string><key>id</key><string></dict>
+		<dict>Innes of Cowie		353</string><key>code</key><string>B2, K12, R2, K2, R2, K2, R12, W2, R4, G6, R4, K2, G10, K2, R4, W2, R4, K2, G10, K2, R4, G6, R4, W2, R12, K2, R2, K2, R2, K12, G2</string><key>id</key><string></dict>
+		<dict>Innes of Moray		361</string><key>code</key><string>A7, K24, R4, K4, R4, K4, R24, Y4, R6, B12, R6, K4,G20, K4, R6, W4</string><key>id</key><string></dict>
+		<dict>Inverary		772</string><key>code</key><string>H20, K2, B26, K6, W18, Y6</string><key>id</key><string></dict>
+		<dict>Irvine		733</string><key>code</key><string>G72, B36, K4, B4, W4</string><key>id</key><string></dict>
+		<dict>Jardine of Castlemilk		1447</string><key>code</key><string>R8, B8, Y33, B8, R8, K33, Y33, T33, R8</string><key>id</key><string></dict>
+		<dict>Johnston		1063</string><key>code</key><string>K4, B4, K4, B48, G60, K2, G4, Y6</string><key>id</key><string></dict>
+		<dict>Johnstone		1062</string><key>code</key><string>K6, B6, K6, B44, G52, K4, B2, Y6</string><key>id</key><string></dict>
+		<dict>Keith and Austin		253</string><key>code</key><string>B8, K8, B8, G18, K4</string><key>id</key><string></dict>
+		<dict>Kennedy		1123</string><key>code</key><string>K4, G4, Y2, G6, C2, G4, C2, G4, C2, G24, B8, K6, B6, K6, B6, B8, G48, S4</string><key>id</key><string></dict>
+		<dict>Kennedy		1560</string><key>code</key><string>R12, G10, Y8, G18, R8, G10, R8, G128, B36, K14, B18, K14, B36, G154, Y16</string><key>id</key><string></dict>
+		<dict>Kerr		791</string><key>code</key><string>G40, K2, G4, K2, G6, K28, R56, K2, R4, K8</string><key>id</key><string></dict>
+		<dict>Kerr (Hunting)		782</string><key>code</key><string>G28, K4, G4, K4, G6, K20, B32, K2, B4, K4</string><key>id</key><string></dict>
+		<dict>Lamont		216</string><key>code</key><string>B6, K2, B2, K2, B2, K8, G8, W2, G8, K8, B8, K2, B2</string><key>id</key><string></dict>
+		<dict>Lamont		217</string><key>code</key><string>B20, K2, B2, K2, B4, K16, G20, W2</string><key>id</key><string></dict>
+		<dict>Lamont		602</string><key>code</key><string>P22, T4, P4, T4, P4, T22, G28, W4</string><key>id</key><string></dict>
+		<dict>Lauder		709</string><key>code</key><string>G6, B16, G6, K8, G30, R4</string><key>id</key><string></dict>
+		<dict>Lendrum or MacFarlane		1190</string><key>code</key><string>K67, R32, K6, R32</string><key>id</key><string></dict>
+		<dict>Leslie (Hunting)		1113</string><key>code</key><string>K2, G16, W2, K16, B16, R4</string><key>id</key><string></dict>
+		<dict>Leslie or Duncan		1142</string><key>code</key><string>K2, R64, B32, R8, K12, Y2, K12, R8</string><key>id</key><string></dict>
+		<dict>Lindsay		704</string><key>code</key><string>DG40, DB4, DG4, DB4, DG4, DB16, LDR48, DB4, LDR6</string><key>id</key><string></dict>
+		<dict>Lindsay		711</string><key>code</key><string>G48, B6, G6, B6, G6, B18, R48, G6, R8</string><key>id</key><string></dict>
+		<dict>Lindsay		758</string><key>code</key><string>G24, DG2, G2, DG2, G2, K10, R20, K2, R4</string><key>id</key><string></dict>
+		<dict>Lindsay		801</string><key>code</key><string>G24, K2, G2, K2, G2, C10, R20, K2, R4</string><key>id</key><string></dict>
+		<dict>Lindsay (Dress Red)		992</string><key>code</key><string>G52, R6, G6, R6, G6, R22, W54, R6, W10</string><key>id</key><string></dict>
+		<dict>Lindsay (Dress)		715</string><key>code</key><string>G66, B8, G8, B8, G8, B24, W66, B6, W12</string><key>id</key><string></dict>
+		<dict>Lindsay (Dress)		1421</string><key>code</key><string>LDR6, DB4, LDR62, DB28, W4, DB4, W4, DB4, W58</string><key>id</key><string></dict>
+		<dict>Livingstone		895</string><key>code</key><string>G28, R8, G4, R4, G4, R8, G38, R60, G4, R18</string><key>id</key><string></dict>
+		<dict>Livingstone		1003</string><key>code</key><string>G24, R8, K2, R4, K2, R8, G32, R40, G4, R16</string><key>id</key><string></dict>
+		<dict>Livingstone (MacLay or MacLeay)		1488</string><key>code</key><string>R56, G8, K8, G8, K8, A12, Y2</string><key>id</key><string></dict>
+		<dict>Logan		397</string><key>code</key><string>P18, LR8, P2, LR8, LG30, R8, P2</string><key>id</key><string></dict>
+		<dict>Logan		399</string><key>code</key><string>P32, R12, P4, R12, G56, R12, P4</string><key>id</key><string></dict>
+		<dict>Logan		591</string><key>code</key><string>B18, R6, Y2, G18, R6, Y2</string><key>id</key><string></dict>
+		<dict>Logan (with Yellow)		590</string><key>code</key><string>P32, R12, Y4, R12, G56, R12, Y4</string><key>id</key><string></dict>
+		<dict>Logan or MacLennan		490</string><key>code</key><string>B4, R4, B4, R4, B16, K16, G16, R4, G4, Y4</string><key>id</key><string></dict>
+		<dict>Logan or MacLennan		1429</string><key>code</key><string>R12, B6 R4, B4, R4, B32, K24, G32, R2, K2, Y4</string><key>id</key><string></dict>
+		<dict>Logan or Skene		398</string><key>code</key><string>B18, R6, B2, R6, G18, R6, B2</string><key>id</key><string></dict>
+		<dict>Lovat or Fraser		400</string><key>code</key><string>P2, R14, P44, R46, P2, R46, G44, R14, P2</string><key>id</key><string></dict>
+		<dict>Lovat or Fraser		525</string><key>code</key><string>P4, R20, G72, R16, P38, R160</string><key>id</key><string></dict>
+		<dict>MacAlister		579</string><key>code</key><string>B20, R4, W4, R6, DG24, LG4, R16, LG4, DG24, R20, W4, R4, B32, R4, W4, R44, A4, R4, DG88, R4, A4, R128, A4, R4, A4, R48, W4, R4, DG24, R8, A8, R8, W4, R8, A8, R8, DG24, LG4, R64</string><key>id</key><string></dict>
+		<dict>MacAlister		1400</string><key>code</key><string>R8, A2, R2, G12, R24, A2, R2, G36, R2, A2, R64, A2, R2, G36, R2, A2, R24, B16, R16, G16, R8, G16, R64</string><key>id</key><string></dict>
+		<dict>MacAlister		1465</string><key>code</key><string>R16, LG2, G4, R4, A2, R2, W2, R2, A2, R4, G6, R2, W2, R12, A2, R2, G24, R2, A2, R32, A2, R2, G24, R2, A2, R12, W2, R2, B8, R2, W2, R4, G6, LG2, R4, LG2, G6, R6, W2, R2, B4, R2, W2, R16</string><key>id</key><string></dict>
+		<dict>MacAlister		1552</string><key>code</key><string>R48, G12, Y4, R8, Y4, G12, R12, B12, R24, A4, R4, G32, R4, A4, R48, A4, R4, G32, R4, A4, R24, G8, R4, A4, R8, A4, R4, G12, Y3, R16</string><key>id</key><string></dict>
+		<dict>MacAlister of Glenbarr		877</string><key>code</key><string>R8, P6, R68, P4, R4, G28, R4, P4, R16, G8, R8, G8, R4, G26</string><key>id</key><string></dict>
+		<dict>MacAlister of Glenbarr		910</string><key>code</key><string>G8, T4, G4, T4, G4, T6, B2, T2, G8, T2, B2, T24, B4, T6</string><key>id</key><string></dict>
+		<dict>MacAlpine		1914</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacAlpine		2024</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacArthur		959</string><key>code</key><string>K30, G4, K8, G36, Y4, G36</string><key>id</key><string></dict>
+		<dict>MacArthur		1100</string><key>code</key><string>K32, G6, K12, G30, Y3</string><key>id</key><string></dict>
+		<dict>MacArthur of Milton (Hunting)		700</string><key>code</key><string>G28, B4, G4, K16, P18, K4</string><key>id</key><string></dict>
+		<dict>MacAulay		1338</string><key>code</key><string>R96, B2, G48, B2, R20, B2, G24, K2, W8</string><key>id</key><string></dict>
+		<dict>MacAuley (Hunting)		827</string><key>code</key><string>R4, G24, K8, G16, K32, W2, K32, G12</string><key>id</key><string></dict>
+		<dict>MacBain		951</string><key>code</key><string>G20, W4, R10, C10, G4, C10, R10, W4, K4, G24, K4, W4, K4, A10, R120</string><key>id</key><string></dict>
+		<dict>MacBean		950</string><key>code</key><string>G6, W2, R4, C4, G2, C4, R4, W2, K2, G12, K2, W2, B4, A2, W2, A2, B4, W2, R48</string><key>id</key><string></dict>
+		<dict>MacBean		952</string><key>code</key><string>G14, W4, R8, M8, G4, M8, R8, W4, K4, G20, K4, W4, K4, B4, W4, B4, K8, W4, R114</string><key>id</key><string></dict>
+		<dict>MacBean (MacElvain)		519</string><key>code</key><string>B2, R8, G24, R6, B12, R24, K4</string><key>id</key><string></dict>
+		<dict>MacBean (MacVean)		925</string><key>code</key><string>G12, W4, M6, R6, DR6, G4, DR6, R6, M6, W4, K4, G18, K4, W4, DB4, B4, A4, W4, A4, B4, DB4, W4, R64</string><key>id</key><string></dict>
+		<dict>MacBeth		557</string><key>code</key><string>B66, R16, K24, Y4, K8, W8, K8, G24, B16, K8, B8, W4</string><key>id</key><string></dict>
+		<dict>MacBeth		679</string><key>code</key><string>B80, Y8, K6, W4, K6, W4, K6, G20, R12, K4, R8, W4</string><key>id</key><string></dict>
+		<dict>MacBeth (MacLulich)		678</string><key>code</key><string>B72, Y8, K12, Y2, K2, W2, K2, G16, R12, K2, R6, W2</string><key>id</key><string></dict>
+		<dict>MacCallum		767</string><key>code</key><string>G16, K4, A2, G8, K12, B12, K2</string><key>id</key><string></dict>
+		<dict>MacCallum of Berwick		492</string><key>code</key><string>B20, R14, B62, K50, G46, K16, B14, K16, Y10</string><key>id</key><string></dict>
+		<dict>MacCaughan		169</string><key>code</key><string>LP8, G24, K8, B24, K4, R8</string><key>id</key><string></dict>
+		<dict>MacClellan		325</string><key>code</key><string>B18, K5, G3, R3, G6, K2, Y2, K2, G6, R3, G3, K10, B5, K10</string><key>id</key><string></dict>
+		<dict>MacColl		878</string><key>code</key><string>G8, R2, G2, R24, B2, R2, B6, R2, B2, R4, G16, R2, B2, R24</string><key>id</key><string></dict>
+		<dict>MacColl		899</string><key>code</key><string>G8, R2, G2, R24, T2, R2, B6, R2, T2, R4, T16, R2, G2, R24</string><key>id</key><string></dict>
+		<dict>MacColl		968</string><key>code</key><string>G8, R2, G2, R24, T2, R2, B6, R2, T2, R4, G16, R2, T2, R24</string><key>id</key><string></dict>
+		<dict>MacColl (Ancient)		1638</string><key>code</key><string>C4, R4, G4, R16, G52, R16, C4, G2, R4, B4, R4, GC4, R16, B52, R12, C6, R14</string><key>id</key><string></dict>
+		<dict>MacColl (Hunting)		1637</string><key>code</key><string>C4, R4, OG4, R14, OG44, R14, C4, W2, R4, B4, R4, W2, C4, R14, B44, R12, C6, R12</string><key>id</key><string></dict>
+		<dict>MacConnell		141</string><key>code</key><string>B44, G12, B10, A4, G44, R12, G10, R8, G18, W6</string><key>id</key><string></dict>
+		<dict>MacCormick (Dress)		1091</string><key>code</key><string>K6, G26, K20, R26, K4, R6</string><key>id</key><string></dict>
+		<dict>MacCorquodale		283</string><key>code</key><string>B8, K8, A48, K48, B56, K8, R14</string><key>id</key><string></dict>
+		<dict>MacCoul		1635</string><key>code</key><string>C8, R72, B2, R4, G24, R24, C12, R4, C12, B24, R8, G4, R8, G4, R4, C4, R24,</string><key>id</key><string></dict>
+		<dict>MacDiarmid		1180</string><key>code</key><string>K24, R4, K56, G24, K2, W6, K2, G24, R8</string><key>id</key><string></dict>
+		<dict>MacDiarmid		1181</string><key>code</key><string>R10, G112, K4, W10, K4, G112, R32, K166, R32, G112, K4, W10, K4, G112, R10</string><key>id</key><string></dict>
+		<dict>MacDiarmid		1473</string><key>code</key><string>R6, K12, R6, K12, G12, K2, W2, K2, G12, R2</string><key>id</key><string></dict>
+		<dict>MacDiarmid (Dress)		1486</string><key>code</key><string>R4, G32, K3, W4, K3, G32, W37, R12, W38</string><key>id</key><string></dict>
+		<dict>MacDonald		419</string><key>code</key><string>B16, R2, B4, R6, B24, R2, K24, G24, R6, G4, R2, G16</string><key>id</key><string></dict>
+		<dict>MacDonald		420</string><key>code</key><string>B22, R4, B4, R8, B30, R4, K30, G30, R8, G4, R4, G22</string><key>id</key><string></dict>
+		<dict>MacDonald		421</string><key>code</key><string>B32, R4, B4, R10, B58, R4, K62, G58, R10, G4, R4, G32</string><key>id</key><string></dict>
+		<dict>MacDonald		422</string><key>code</key><string>B34, R4, B4, R12, B64, R4, K68, R12, G4, R4, G34</string><key>id</key><string></dict>
+		<dict>MacDonald		423</string><key>code</key><string>B24, R4, B4, R10, B52, R4, K58, G54, R10, G4, R4, G24</string><key>id</key><string></dict>
+		<dict>MacDonald		424</string><key>code</key><string>B16, R4, B4, R8, B20, R4, K22, G20, R8, G4, R4, G16</string><key>id</key><string></dict>
+		<dict>MacDonald		510</string><key>code</key><string>B2, R8, G24, R6, B12, R48, B2, R4, G4</string><key>id</key><string></dict>
+		<dict>MacDonald		874</string><key>code</key><string>G10, R2, G2, R10, G12, K14, R2, K14, R8, K2, R2, K12</string><key>id</key><string></dict>
+		<dict>MacDonald		1997</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacDonald		1998</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacDonald		2001</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacDonald (Hunting)		927</string><key>code</key><string>DG24, W2, E4, W4, E4, W2, E24, W2, E4, W4, LG4, W2, LG48</string><key>id</key><string></dict>
+		<dict>MacDonald (Pattern of Plaids)		482</string><key>code</key><string>B16, R4, B6, R10, B30, R4, K30, W34, R9, W6, R4, W16</string><key>id</key><string></dict>
+		<dict>MacDonald of Boisdale		1668</string><key>code</key><string>R32, W2, B12, W2, R8, LG2, G12, LG2, R8, LG2, G32, LG2, R48, W2, B64, W2, R12, W2, B12, W2, B32</string><key>id</key><string></dict>
+		<dict>MacDonald of Clanranald		425</string><key>code</key><string>B16, R2, B4, R6, B24, R2, K24, W2, G24, R6, G4, R2, G16</string><key>id</key><string></dict>
+		<dict>MacDonald of Clanranald		426</string><key>code</key><string>B32, R4, B4, R14, B62, R4, K64, W6, G62, R14, G4, R4, G32</string><key>id</key><string></dict>
+		<dict>MacDonald of Clanranald		427</string><key>code</key><string>B12, R4, B4, R6, B24, R4, K22, W4, G22, R6, G4, R4, G12</string><key>id</key><string></dict>
+		<dict>MacDonald of Clanranald		474</string><key>code</key><string>B40, R4, B6, R12, B64, R4, K64, W4, G60, R12, G8, R4, G8, W2</string><key>id</key><string></dict>
+		<dict>MacDonald of Glencoe		1020</string><key>code</key><string>G8, Y2, C8, G4, C84, A2, B20, C10, G60, C4, B4, Y2, C10</string><key>id</key><string></dict>
+		<dict>MacDonald of Isles		1366</string><key>code</key><string>R6, B20, K24, G6, K2, G2, K2, G60, W8</string><key>id</key><string></dict>
+		<dict>MacDonald of Kingsburgh		1562</string><key>code</key><string>R6, G6, Y2, R36, W2, G42, Y2, G2, Y6</string><key>id</key><string></dict>
+		<dict>MacDonald of Loch Mhaddy		971</string><key>code</key><string>G6, R4, G2, R32, W2, A4, R4, B8, R4, A4, W2, R4, G28, R4, A4, W2, R26</string><key>id</key><string></dict>
+		<dict>MacDonald of Sleat		904</string><key>code</key><string>R72, G4, R10, G32</string><key>id</key><string></dict>
+		<dict>MacDonald of Staffa		1387</string><key>code</key><string>R19, B4, R5, B4, R5, K4, G4, R5, G4, R22, G4, R5, G19, W2, G19, R21, W4, R21, B22, R4, G4, R22, G4, R4, K2, G22, K2, R4, G4, R20, G4, R4, G4, R4, G4, R4, G4, R22, B4, R24</string><key>id</key><string></dict>
+		<dict>MacDonald of Staffa		1493</string><key>code</key><string>R16, G10, R10, G10,R10, G10, R10, G10, R54, G8, K6, G50, K6, R10, G10, R54, G10, R10, G42, K32, R54, W6, R54, G48, W6, G48, R18, G10, R58</string><key>id</key><string></dict>
+		<dict>MacDonald of Staffa		1528</string><key>code</key><string>R32, G2, R2, G2, R2, G2, R2, G2, R12, G2, B2, R2, G2, R8, G2, R2, B8, R8, W2, R8, G8, W2, G8, R2, G2, R12, G2, R16, W2</string><key>id</key><string></dict>
+		<dict>MacDonald of Staffa		1529</string><key>code</key><string>R32, G2, R2, G2, R2, G2, R2, G2, R12, G2, B2, G12, K2, R2, G2, R8, G2, R2, B8, R8, W2,R8, G8, W2, G2, R12, G2, R16, W2</string><key>id</key><string></dict>
+		<dict>MacDonald of Staffa		1643</string><key>code</key><string>W2, R10, DR4, G14, R24, G4, B4, R4, G28, R12, B4, G4, R8, DR4</string><key>id</key><string></dict>
+		<dict>MacDonell of Glengarry		471</string><key>code</key><string>B16, R2, B4, R6, B24, R2, K24, G24, R6, G4, R2, G8, W2</string><key>id</key><string></dict>
+		<dict>MacDonell of Glengarry		472</string><key>code</key><string>B16, R8, B24, R2, K24, G24, R6, G4, R2, G8, W2</string><key>id</key><string></dict>
+		<dict>MacDonell of Glengarry		473</string><key>code</key><string>B32, R10, B60, R4, K66, G60, R10, G4, R4, G14, W4</string><key>id</key><string></dict>
+		<dict>MacDonell of Glengarry		856</string><key>code</key><string>G12, R4, G2, R48, G4, R4, B12, R4, G4, R6, G36</string><key>id</key><string></dict>
+		<dict>MacDonell of Glengarry		1999</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacDonell of Keppach		1507</string><key>code</key><string>R18, G8, R12, K4, R8, K4, R16, G28, R48, G4, R8</string><key>id</key><string></dict>
+		<dict>MacDonell of Keppoch		511</string><key>code</key><string>B2, R8, G24, R6, B12, A2, R48, B2, R4, G4</string><key>id</key><string></dict>
+		<dict>MacDonell of Keppoch		1401</string><key>code</key><string>R4, B2, R28, G24, R16, B2, R4, B2, R12, G4, R16</string><key>id</key><string></dict>
+		<dict>MacDonell of Keppoch		1506</string><key>code</key><string>R48, G8, R4, G4, R4, G4, R24, G48, R2, K2, R48, K2, R2, K2, R12</string><key>id</key><string></dict>
+		<dict>MacDougal		132</string><key>code</key><string>P8, G16, B12, P16, R12, G4, R4, G4, R48, G2, R6</string><key>id</key><string></dict>
+		<dict>MacDougal		566</string><key>code</key><string>A2, C24, R8, G144, R16, G8, R16, B36, C24, R8, C24, G36, R36, G36, R16, B8, R144, C12, R8, A2</string><key>id</key><string></dict>
+		<dict>MacDougal		567</string><key>code</key><string>A2, LC8, LR4, G54, R8, G4, R8, P20, LC6, LR4, R4, LR4, LC6, G20, R20, R4, P4, R52, LC6, LR4, R6, A2</string><key>id</key><string></dict>
+		<dict>MacDougal		1471</string><key>code</key><string>R8, G16, K12, C16, R12, G4, R4, G4, R48, G2, R6</string><key>id</key><string></dict>
+		<dict>MacDougall		569</string><key>code</key><string>A2, R10, LR4, C6, R50, B4, R4, G22, R22, G22, C6, LR4, R4, LR4, C6, B22, R10, G4, R10, G48, R6, LR4, C10, A2</string><key>id</key><string></dict>
+		<dict>MacDougall		571</string><key>code</key><string>A2, LR12, R8, G50, R10, G6, R10, P24, LR16, R6, LR16, G24, R24, G24, R6, P6, LR60</string><key>id</key><string></dict>
+		<dict>MacDougall		575</string><key>code</key><string>A2, C4, W2, R2, G12, R4, G2, R4, B6, C4, W2, R2, W2, C4, G6, R6, G6, R2, B2, R12, C4, W2, R4, A2</string><key>id</key><string></dict>
+		<dict>MacDougall		1014</string><key>code</key><string>R5, M4, DR6, R8, B22, DR6, M4, R6, M4, R6, G20, R6, M4, DR6, G18</string><key>id</key><string></dict>
+		<dict>MacDougall		1407</string><key>code</key><string>R40, LB72, R8, K4, A14, K8, R4, K4, W6, K4, R6, K8, A14, K26, R40</string><key>id</key><string></dict>
+		<dict>MacDougall		1519</string><key>code</key><string>W2, P6, R4, G60, R8, G4, R8, B20, P8, R4, P8, G20, R20, G20, R4, B4, R60, P6, R4, W2, R4, P6, R60, B4, R4, G20, R10</string><key>id</key><string></dict>
+		<dict>MacDougall		1646</string><key>code</key><string>R12, LR4, DR8, R80, A4, P16, DR6, LR4, R8, LR4, DR6, G68, R6, LR4, DR8, R12</string><key>id</key><string></dict>
+		<dict>MacDougall		1647</string><key>code</key><string>R14, LR10, DR10, R62, K18, DR8, LR6, R10, LR6, DR8, G60, R8, LR6, DR10, R10</string><key>id</key><string></dict>
+		<dict>MacDougall		1650</string><key>code</key><string>R12, M6, W6, R8, G66, M6, W6, R8, W6, M6, B18, R66, M6, W8, R8</string><key>id</key><string></dict>
+		<dict>MacDougall		1776</string><key>code</key><string>W2, P4, R2, G44, R6, G2, R6, B18, P4, R2, P4, G16, R16, G16, R2, B2, R44, P4, R4, W2</string><key>id</key><string></dict>
+		<dict>MacDougall of MacDougall		68</string><key>code</key><string>A4, P20, LR6, R8, G144, R14, G8, R20, B48, P12, LR10, R8, LR10, P14, G48, R48, G48, R6, B6, R148, P14, LR10, R12, A4</string><key>id</key><string></dict>
+		<dict>MacDuff		1339</string><key>code</key><string>R44, A16, K18, G28, R20, A4, R20</string><key>id</key><string></dict>
+		<dict>MacDuff		1351</string><key>code</key><string>R20, B12, K16, G20, R12, G6, R12</string><key>id</key><string></dict>
+		<dict>MacDuff		1453</string><key>code</key><string>R6, G32, B12, K12, R48, K4, R8</string><key>id</key><string></dict>
+		<dict>MacDuff		2141</string><key>code</key><string>R16, A6, K8, G12, R8, K2, R8</string><key>id</key><string></dict>
+		<dict>MacDuff (Dress)		584</string><key>code</key><string>A4, R2, W10, K8, G12, W8, K2, W8</string><key>id</key><string></dict>
+		<dict>MacDuff (Dress)		1597</string><key>code</key><string>R16, K6, R14, G22, K16, DB16, W10, R6, W45, K4, R4</string><key>id</key><string></dict>
+		<dict>MacDuff (Dress)		1601</string><key>code</key><string>R14, K6, R14, G22, K20, B18, W78</string><key>id</key><string></dict>
+		<dict>MacDuff (Hunting)		1654</string><key>code</key><string>R4, T16, B16, K16, G16, T16, R2, T16</string><key>id</key><string></dict>
+		<dict>MacEwen		1587</string><key>code</key><string>R4, K2, G24, K24, B24 ,K2, B4, K2, B24, K24, G24, K2, Y4</string><key>id</key><string></dict>
+		<dict>MacFadyen (MacBean (Old))		403</string><key>code</key><string>B6, R50, B34, R10, G44, R18, B6</string><key>id</key><string></dict>
+		<dict>MacFadzean		645</string><key>code</key><string>B96, W4, K40, G44, R6, G8</string><key>id</key><string></dict>
+		<dict>MacFadzean (MacPhedran)		744</string><key>code</key><string>G6, B24, W2, K24, R4, G4</string><key>id</key><string></dict>
+		<dict>MacFarlane		659</string><key>code</key><string>B8, W4, R12, K2, B24, G8, W4, R12, BR12, W4, G16, R4, W32, R8</string><key>id</key><string></dict>
+		<dict>MacFarlane		779</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacFarlane or Lendrum		948</string><key>code</key><string>G6, W8, R6, K8, P24, G4, W4, R6, K2, R6, W4, G24, K2, R84</string><key>id</key><string></dict>
+		<dict>MacFarlane or Lendrum		1251</string><key>code</key><string>K14, W12, K2, W12</string><key>id</key><string></dict>
+		<dict>MacGill		1487</string><key>code</key><string>R96, G32, K16, W6, Y6, R4, T6, W6, B16, K2, R8, Y8, W6</string><key>id</key><string></dict>
+		<dict>MacGillivray		446</string><key>code</key><string>B4, R8, A2, R8, G32, R4, B24, R4, A4, R64, B2, A2, R8</string><key>id</key><string></dict>
+		<dict>MacGillivray		447</string><key>code</key><string>P4, R12, A2, R12, G60, R8, P46, R4, A4, R114, P2, A2, K12</string><key>id</key><string></dict>
+		<dict>MacGillivray		880</string><key>code</key><string>G38, R14, G14, R14, G14, R28, B6, R6, G38, R6, B6, R132, B14, R28</string><key>id</key><string></dict>
+		<dict>MacGlashan		656</string><key>code</key><string>B2, W2, R12, DT10, B8, W6, Y10, R8, DT4, R8, Y10, W6, LT50, W4, DT6, R50</string><key>id</key><string></dict>
+		<dict>MacGregor		450</string><key>code</key><string>B4, R4, B28, R28, B4, R4</string><key>id</key><string></dict>
+		<dict>MacGregor		1525</string><key>code</key><string>R78, G12, R4, G6, W2</string><key>id</key><string></dict>
+		<dict>MacGregor		1526</string><key>code</key><string>R72, G36, R8, G12, K2, W4</string><key>id</key><string></dict>
+		<dict>MacGregor (Green)		1577</string><key>code</key><string>R6, K2, G16, W12, G40, W94</string><key>id</key><string></dict>
+		<dict>MacGregor of Balquhidder		988</string><key>code</key><string>G18, R4, G18, R28, K2, W4</string><key>id</key><string></dict>
+		<dict>MacGregor of Balquhidder		989</string><key>code</key><string>G16, R4, G18, R32, W2</string><key>id</key><string></dict>
+		<dict>MacGregor of Glen Straye		866</string><key>code</key><string>G16, R4, G18, R32, G2</string><key>id</key><string></dict>
+		<dict>MacGregor of Glengyle		1285</string><key>code</key><string>N6, K4, G17, C16, G42, C96</string><key>id</key><string></dict>
+		<dict>MacGregor of Glenstrae		962</string><key>code</key><string>G18, R4, G18, R34</string><key>id</key><string></dict>
+		<dict>MacHardy		513</string><key>code</key><string>B2, R2, G12, B12, Y2, B12, R2, G2</string><key>id</key><string></dict>
+		<dict>MacHardy		514</string><key>code</key><string>B6, R6, G36, B32, W4, B52, R6, G6</string><key>id</key><string></dict>
+		<dict>MacHardy		1000</string><key>code</key><string>G6, R2, K24, W2, K24, G64, R2, K6</string><key>id</key><string></dict>
+		<dict>MacInnes		189</string><key>code</key><string>A4, G24, R4, G4, R4, G4, R24, Y4, B8, R4, K4, G16, K4, R8, W4</string><key>id</key><string></dict>
+		<dict>MacInnes		1464</string><key>code</key><string>R4, G12, B24, K6, A6, K6, G32, K4, G4, K4, G4, K24, Y4</string><key>id</key><string></dict>
+		<dict>MacInnes (Ancient Hunting)		1614</string><key>code</key><string>R4, K4, W2, R6, K4, B6, K4, B6, K8, Y4, T16, W20, B6, W16</string><key>id</key><string></dict>
+		<dict>MacInnes (Dress)		923</string><key>code</key><string>G8, W48, G6, K6, G6, K6, G48, K8, W8, K8, B48, G16, R8</string><key>id</key><string></dict>
+		<dict>MacInroy		133</string><key>code</key><string>B20, G2, B4, G6, B32, G2, K32, R32, G6, R4, G2, R20</string><key>id</key><string></dict>
+		<dict>MacInroy		1081</string><key>code</key><string>K4, G12, K12, P4, R4, P4, R12, G4, K4</string><key>id</key><string></dict>
+		<dict>MacIntosh (Dress)		538</string><key>code</key><string>B4, R8, G28, B8, W16, R6,</string><key>id</key><string></dict>
+		<dict>MacIntyre		56</string><key>code</key><string>A6, B24, K24, G24, K4, G24, K24</string><key>id</key><string></dict>
+		<dict>MacIntyre		743</string><key>code</key><string>W8, G64, B24, R6, B24, G8</string><key>id</key><string></dict>
+		<dict>MacIntyre and Glenorchy		402</string><key>code</key><string>A2, R4, B4, R8, G32, R4, B2, R8, G2, R4, B32, R8, G4, R4, A2</string><key>id</key><string></dict>
+		<dict>MacIver		1202</string><key>code</key><string>K32, R4, K4, R24, W2</string><key>id</key><string></dict>
+		<dict>MacIver		1203</string><key>code</key><string>Y6, R54, K10, R10, K64, R10, K10, R54, W6</string><key>id</key><string></dict>
+		<dict>MacIver		1855</string><key>code</key><string>W4, R36, K8, R8, K48, R8, K8, R36, Y4</string><key>id</key><string></dict>
+		<dict>MacKay		142</string><key>code</key><string>B16, G16, B2, G16, K16, B16, Y4</string><key>id</key><string></dict>
+		<dict>MacKay		264</string><key>code</key><string>B4, K12, B4, K12, B32, R2</string><key>id</key><string></dict>
+		<dict>MacKay		703</string><key>code</key><string>G6, NB28, G4, K28, G28, K6</string><key>id</key><string></dict>
+		<dict>MacKay		718</string><key>code</key><string>G2, B10, G2, K10, G12, Y2</string><key>id</key><string></dict>
+		<dict>MacKay (Blue)		1052</string><key>code</key><string>K30, B8, K30, B56, R4</string><key>id</key><string></dict>
+		<dict>MacKay of Strathnaver		2037</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacKeane (MacIan)		1608</string><key>code</key><string>Y4, K2, R24, K16, R8, K16, R8</string><key>id</key><string></dict>
+		<dict>MacKellar		939</string><key>code</key><string>G64, W4, G4, Y6, G4, W4, G4, K32, A4, B32, W6</string><key>id</key><string></dict>
+		<dict>MacKellar		940</string><key>code</key><string>G60, W6, G8, Y10, G8, W6, G12, K28, A6, K28, B36, W8</string><key>id</key><string></dict>
+		<dict>MacKellar (Dress)		926</string><key>code</key><string>G6, W52, A4, K26, T10, W4, T6, Y8, T6, W4, T54</string><key>id</key><string></dict>
+		<dict>MacKellar (Dress)		1311</string><key>code</key><string>N10, W72, N8, DT30, LT14, W8, LT6, Y14, LT6, W8, LT70</string><key>id</key><string></dict>
+		<dict>MacKenzie		266</string><key>code</key><string>B20, K4, B4, K4, B4, K16, G6, K2, W4, K2, G16, K16, B18, R4</string><key>id</key><string></dict>
+		<dict>MacKenzie		267</string><key>code</key><string>B24, K4, B4, K4, B4, K24, G24, K2, W4, K2, G24, K224, B24, K2, R4</string><key>id</key><string></dict>
+		<dict>MacKenzie		1362</string><key>code</key><string>R4, B14, K14, G16, K2, W4, K2, G16, K14, W4, A4, W14, A4, W6</string><key>id</key><string></dict>
+		<dict>MacKenzie		1481</string><key>code</key><string>R4, G44, K16, B8, K4, B4, K4, B56, K4, B4, K4, B8, K16, G44, W4</string><key>id</key><string></dict>
+		<dict>MacKenzie		1959</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacKenzie		1981</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacKenzie (Dress)		1786</string><key>code</key><string>W4, B4, W106, B4, W4, K30, G30, K4, W6, K4, G30, K30, B28, K4, R6, K4, B28, K30, W4, B4, W106, B4, W4</string><key>id</key><string></dict>
+		<dict>MacKillop		512</string><key>code</key><string>B4, R4, G14, R4, B8, A2, R26, B4, R4, G6</string><key>id</key><string></dict>
+		<dict>MacKillop		1001</string><key>code</key><string>G8, R8, K4, R40, A2, K14, R4, G20, R6, K4,</string><key>id</key><string></dict>
+		<dict>MacKinlay		218</string><key>code</key><string>B12, K4, B4, K4, B4, K12, G16, K2, R4, K2, G16, K12, B16, K4, B4</string><key>id</key><string></dict>
+		<dict>MacKinnon		540</string><key>code</key><string>P4, R6, G4, B4, R12, G32, R4, B8, G4, R32, G16, P4, R8, W4</string><key>id</key><string></dict>
+		<dict>MacKinnon		542</string><key>code</key><string>P6, R8, G6, B6, R14, G34, R6, B10, G8, R42, G14, P6, R12, W6</string><key>id</key><string></dict>
+		<dict>MacKinnon		1165</string><key>code</key><string>K2, R36, G24, R4, G24, R36, W2</string><key>id</key><string></dict>
+		<dict>MacKinnon		1527</string><key>code</key><string>R12, G80, R100, W12</string><key>id</key><string></dict>
+		<dict>MacKinnon		1640</string><key>code</key><string>P4, R6, G4, B4, R12, G32, R4, B8, G4, R32, G16, P4, R8, W4</string><key>id</key><string></dict>
+		<dict>MacKinnon		1642</string><key>code</key><string>LR2, R4, G2, L2, R10, G22, R2, K4, G2, R22, G8, LR2, R4, W2</string><key>id</key><string></dict>
+		<dict>MacKinnon		1837</string><key>code</key><string>W4, R8, A4, R8, G32, R6, A4, R32, G16, R8, W4</string><key>id</key><string></dict>
+		<dict>MacKinnon		1841</string><key>code</key><string>W6, R10, G6, P6, R28, G72, R6, P16, G6, R72, G28, LR6, R10, W6</string><key>id</key><string></dict>
+		<dict>MacKinnon		1842</string><key>code</key><string>W4, R8, W4, G14, R40, G4, B10, R4, G8, R12, B4, G4, R8, W4</string><key>id</key><string></dict>
+		<dict>MacKinnon (Hunting)		1542</string><key>code</key><string>R2, G16, T16, W2</string><key>id</key><string></dict>
+		<dict>MacKinnon (Hunting)		1641</string><key>code</key><string>G4, T32, G32, R4, G32, T32, W4</string><key>id</key><string></dict>
+		<dict>MacKinnon Hunting		917</string><key>code</key><string>G2, T16, G16, R2, G16, T16, W2</string><key>id</key><string></dict>
+		<dict>MacKintosh		521</string><key>code</key><string>B2, R6, G22, R4, B10, R44</string><key>id</key><string></dict>
+		<dict>MacKintosh		1476</string><key>code</key><string>R6, G32, K24, R56, W4, R10</string><key>id</key><string></dict>
+		<dict>MacKintosh		1509</string><key>code</key><string>R72, K4, R4, K4, R6, G24, R150</string><key>id</key><string></dict>
+		<dict>MacKintosh		1616</string><key>code</key><string>R48, K2, W2, G12, W2, G2, Y4, R4, K2, R4, Y4, G2, W2, A12, K4, R6, Y6, G4, W2,</string><key>id</key><string></dict>
+		<dict>MacKintosh		1621</string><key>code</key><string>R48, K2, W2, G12, W2, G2, Y4, R4, K2, R4, Y4, G2, W2, A12, K4, R6, Y6, G4, W2</string><key>id</key><string></dict>
+		<dict>MacKintosh		1622</string><key>code</key><string>R188, K6, W4, G42, W6, Y6, R10, K4, R10, Y6, W6, N42, K14, R14, Y16, W8</string><key>id</key><string></dict>
+		<dict>MacKintosh (Geddis)		543</string><key>code</key><string>B4, R20, G72, R16, B36, R40, W4</string><key>id</key><string></dict>
+		<dict>MacKintosh (Hunting)		544</string><key>code</key><string>B2, R6, G22, R4, B10, G22, Y2</string><key>id</key><string></dict>
+		<dict>MacKintosh (MacPherson)		1550</string><key>code</key><string>R72, G16, Y2, K12, A8, K2, A2, K2, A8, R22, W2, K2, R2</string><key>id</key><string></dict>
+		<dict>MacLachlan		732</string><key>code</key><string>R32, K4, R4, K4, R4, K32, B32, G6, B32, K32, R32, K4, R4</string><key>id</key><string></dict>
+		<dict>MacLachlan		1277</string><key>code</key><string>K12, Y4, K42, Y4, K12, Y48, K4, Y12</string><key>id</key><string></dict>
+		<dict>MacLachlan		1593</string><key>code</key><string>R32, K4, R4, K4, R4, K32, B32, G6, B32, K32, R32, K4, R4</string><key>id</key><string></dict>
+		<dict>MacLachlan		1710</string><key>code</key><string>R48, W4, Y6, G32, K32, W4, Y6</string><key>id</key><string></dict>
+		<dict>MacLachlan (Dress)		828</string><key>code</key><string>H8, K6, W48, G46, H8, W6, LR68</string><key>id</key><string></dict>
+		<dict>MacLachlan (Hunting)		775</string><key>code</key><string>G8, K2, G2, K2, G2, K10, B10, R4, B4, R4, B10, G10, K2, G2</string><key>id</key><string></dict>
+		<dict>MacLaine of Lochbuie		487</string><key>code</key><string>B64, R6, B8, Y6</string><key>id</key><string></dict>
+		<dict>MacLaine of Lochbuie		1462</string><key>code</key><string>R64, G16, A8, Y2</string><key>id</key><string></dict>
+		<dict>MacLaine of Lochbuie (Hunting)		491</string><key>code</key><string>B64, R6, B8, K2, Y6</string><key>id</key><string></dict>
+		<dict>MacLaren		342</string><key>code</key><string>B48, K16, G16, R4, G16, K2, Y4</string><key>id</key><string></dict>
+		<dict>MacLaren		343</string><key>code</key><string>P18, K14, G10, S8, G14, K2, Y2</string><key>id</key><string></dict>
+		<dict>MacLarenn Dress		649</string><key>code</key><string>B14, W60, K26, G18, R12, G32, K4, Y14</string><key>id</key><string></dict>
+		<dict>MacLaurin (of Brioch)		344</string><key>code</key><string>B72, K20, G6, R6, G12, K2, Y4</string><key>id</key><string></dict>
+		<dict>MacLean		1143</string><key>code</key><string>K6, R10, A8, R88, G56, K8, W8, K8, Y4, K16, A10, E18</string><key>id</key><string></dict>
+		<dict>MacLean (Black & White)		1824</string><key>code</key><string>W20, K6, W9, K6, W6, K12, W6, K48, W8, K16, W16</string><key>id</key><string></dict>
+		<dict>MacLean (Dress Burgundy)		59</string><key>code</key><string>A24, B4, K8, Y4, K6, C6, K6, C38, W62, B4, W8, K4</string><key>id</key><string></dict>
+		<dict>MacLean (Dress)		1686</string><key>code</key><string>R4, W48, G24, R32, A12, Y4</string><key>id</key><string></dict>
+		<dict>MacLean (of Duart Dress)		1298</string><key>code</key><string>N24, DN4, T8, Y4, T6, W6, T6, W38, R60, N4, R8, T4</string><key>id</key><string></dict>
+		<dict>MacLean (of Duart Dress)		1299</string><key>code</key><string>N20, LN4, DT8, Y4, DT6, W6, DT6, LT36, W60, DN4, W8, DT4</string><key>id</key><string></dict>
+		<dict>MacLean (Variation)		375</string><key>code</key><string>K8, R20, P8, R114, G100, K8, W12, K8, Y8, K24, P90</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		57</string><key>code</key><string>B8, A2, K6, Y2, K2, W2, K2, G16, R24, A2, R4, K2</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		58</string><key>code</key><string>N18, A10, K16, Y4, K8, W8, K8, G62, R100, A8, R8, K6</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		376</string><key>code</key><string>A16, K8, Y2, K4, W6, K4, G24, R48, A4, R6, K4</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		377</string><key>code</key><string>A16, K12, Y4, K4, W6, K4, G32, R50, A6, R8, K3</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		378</string><key>code</key><string>A26, K12, Y4, K6, W8, K6, G44, R62, A6, R8, K4</string><key>id</key><string></dict>
+		<dict>MacLean of Duart		1282</string><key>code</key><string>N24, A4, DT8, Y4, DT6, W6, DT6, LT40, W58, A4, W8, DT4</string><key>id</key><string></dict>
+		<dict>MacLean of Duart (Dress)		573</string><key>code</key><string>K4, W8, N4, W60, R38, U6, R6, U6, G4, B8, LP4, A24</string><key>id</key><string></dict>
+		<dict>MacLean of Duart (Dress)		1210</string><key>code</key><string>K4, R8, W4, R60, W38, K6, W6, K6, LG4, K8, W4, N24</string><key>id</key><string></dict>
+		<dict>MacLean of Duart (Hunting)		824</string><key>code</key><string>K2, G32, K4, G4, K12, W2, K12, G6</string><key>id</key><string></dict>
+		<dict>MacLean of Kingairloch		61</string><key>code</key><string>B16, A2, K12, Y2, K4, W4, K4, G24, T56, W2, T8</string><key>id</key><string></dict>
+		<dict>MacLellan (Lochcarron (old))		323</string><key>code</key><string>B58, K30, G10, R10, G16, K8, Y8, K8, G16, R10, G10, K30, B14, K30</string><key>id</key><string></dict>
+		<dict>MacLennan (or Logan)		3007</string><key>code</key><string>R12, B6, R4, B4, R4, K32, G24, R32, R2, K2, Y4</string><key>id</key><string></dict>
+		<dict>MacLeod		1278</string><key>code</key><string>K12, Y2, K12, Y18, C2, Y4</string><key>id</key><string></dict>
+		<dict>MacLeod		1583</string><key>code</key><string>R6, K4, G30, K20, B40, K4, Y4</string><key>id</key><string></dict>
+		<dict>MacLeod (Black & Red)		1591</string><key>code</key><string>R2, K24, R16, K2, R16</string><key>id</key><string></dict>
+		<dict>MacLeod (Black & White)		1828</string><key>code</key><string>W2, K24, W16, K2, W16</string><key>id</key><string></dict>
+		<dict>MacLeod (Californian)		1623</string><key>code</key><string>R6, K4, W48, G26, K6, G6, K6, G6, B50, Y8</string><key>id</key><string></dict>
+		<dict>MacLeod (Dress)		1272</string><key>code</key><string>K16, Y2, K16, Y24, R2</string><key>id</key><string></dict>
+		<dict>MacLeod of Assynt		1582</string><key>code</key><string>R6, K4, G30, K20, B40, Y4</string><key>id</key><string></dict>
+		<dict>MacLeod of Gesto		280</string><key>code</key><string>K4, R36, K24, R4, K24</string><key>id</key><string></dict>
+		<dict>MacLeod of Gesto		1258</string><key>code</key><string>R4, K2, B16, K14, G16, Y4, G16, Y4, G16, K14, B2, K2, B2, K2, B18</string><key>id</key><string></dict>
+		<dict>MacLeod of Skye		263</string><key>code</key><string>B20, K2, B2, K2, B2, K12, G12, K2, Y4, K2, G12, K12, B12, R6</string><key>id</key><string></dict>
+		<dict>MacLeod Red		496</string><key>code</key><string>DB8, R2, DB2, R4, DB22, R4, DB2, R2, Y2, R2, DB2, R32, DB16, R8, G8, R32, DB22, R16, Y8</string><key>id</key><string></dict>
+		<dict>MacLintock		881</string><key>code</key><string>G72, R6, G6, R6, B18, R6, A4, R80, B6, R6, B4, R12</string><key>id</key><string></dict>
+		<dict>MacLulich		558</string><key>code</key><string>B66, R16, K24, Y4, K8, W8, K8, G24, B16, K8, B8, W4</string><key>id</key><string></dict>
+		<dict>MacMillan		1723</string><key>code</key><string>R2, Y16, R6, Y4, R24, Y2, R6</string><key>id</key><string></dict>
+		<dict>MacMillan		2025</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacMillan (Hunting)		667</string><key>code</key><string>B20, Y6, B60, Y10, K16, G32, LR8, G32, LR4</string><key>id</key><string></dict>
+		<dict>MacMillan (Hunting)		668</string><key>code</key><string>B6, Y2, B24, K8, Y4, K8, G16, R4, G16, R2</string><key>id</key><string></dict>
+		<dict>MacNab		69</string><key>code</key><string>A4, P22, R6, G30</string><key>id</key><string></dict>
+		<dict>MacNab		410</string><key>code</key><string>P6, R38, P36, G38, P6, G6</string><key>id</key><string></dict>
+		<dict>MacNab		838</string><key>code</key><string>G56, R14, M14, G28, M14, R96, K8</string><key>id</key><string></dict>
+		<dict>MacNab		857</string><key>code</key><string>G16, C2, G2, C2, G2, C12, R16, C2, R16, C12, G14, C2, G2</string><key>id</key><string></dict>
+		<dict>MacNab		1010</string><key>code</key><string>K2, R24, C4, G8, C4, R4, G12</string><key>id</key><string></dict>
+		<dict>MacNaughton		349</string><key>code</key><string>A4, K4, R54, A24, K24, G54, R54, K4, A4</string><key>id</key><string></dict>
+		<dict>MacNaughton		404</string><key>code</key><string>DB10, R34, DB20, K20, DG32, R34, DB10</string><key>id</key><string></dict>
+		<dict>MacNaughton		1066</string><key>code</key><string>K2, B2, R32, B16, K24, G32, R32, B2, K2</string><key>id</key><string></dict>
+		<dict>MacNaughton (Dress)		1434</string><key>code</key><string>R4, B4, W52, G50, K28, B26, W52, B4, R4</string><key>id</key><string></dict>
+		<dict>MacNeil		468</string><key>code</key><string>P12, R2, P40, G12, P12, G48, K2, G4, W8</string><key>id</key><string></dict>
+		<dict>MacNeil		469</string><key>code</key><string>B10, R6, B42, DH10, B10, DH80, K4, DH4, W2</string><key>id</key><string></dict>
+		<dict>MacNeil		1763</string><key>code</key><string>W4, B36, K36, G36, K8, W4</string><key>id</key><string></dict>
+		<dict>MacNeil		1764</string><key>code</key><string>W4, P20, K20, G18, K6, W4</string><key>id</key><string></dict>
+		<dict>MacNeil		1766</string><key>code</key><string>W4, B48, K48, G48, K20, Y4</string><key>id</key><string></dict>
+		<dict>MacNeil		1767</string><key>code</key><string>W6, B28, K24, G24, K4, Y6</string><key>id</key><string></dict>
+		<dict>MacNeil		1769</string><key>code</key><string>W4, P66, K66, G66, K12, Y4</string><key>id</key><string></dict>
+		<dict>MacNeil		1839</string><key>code</key><string>W2, R4, B32, K28, G30, K6, Y2</string><key>id</key><string></dict>
+		<dict>MacNeil		1974</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacNeil of Colonsay		196</string><key>code</key><string>B16, G24, W4, G24, K24, B24, K8</string><key>id</key><string></dict>
+		<dict>MacNeil of Colonsay		804</string><key>code</key><string>G16, K5, G4, K8, G44, K40, G4, DB52, R10, DB4, R4, DB10, W6</string><key>id</key><string></dict>
+		<dict>MacNichol		871</string><key>code</key><string>G4, R16, G24, R4, K8, B2, K16, R16, G4, R16, K4</string><key>id</key><string></dict>
+		<dict>MacNichol		1508</string><key>code</key><string>R32, G8, R32, K32, B4, K12, R8, G60, R32, K8, R24</string><key>id</key><string></dict>
+		<dict>MacPhadran		2260</string><key>code</key><string>G6, B24, DW2, K24, G26, R4, G4</string><key>id</key><string></dict>
+		<dict>MacPhail		1028</string><key>code</key><string>K8, A4, G52, R12, B28, R100</string><key>id</key><string></dict>
+		<dict>MacPhail		1031</string><key>code</key><string>K8, A4, G52, R12, K28, R100</string><key>id</key><string></dict>
+		<dict>MacPhail (Hunting)		1367</string><key>code</key><string>R4, B46, K28, G32, K4, W4</string><key>id</key><string></dict>
+		<dict>MacPhee (B & W)		1252</string><key>code</key><string>K44, W6, K6, W44</string><key>id</key><string></dict>
+		<dict>MacPhee (MacFie)		1847</string><key>code</key><string>W2, R24, G4, R2, G32, R2, G4, R24, Y2</string><key>id</key><string></dict>
+		<dict>MacPherson		548</string><key>code</key><string>B6, R6, K48, R6, B6, R6, W48, R6, B6</string><key>id</key><string></dict>
+		<dict>MacPherson		681</string><key>code</key><string>B2, Y6, R6, K4, B16, Y6, R4, K2, R4, Y6, G16, W2, K2, R24, W2</string><key>id</key><string></dict>
+		<dict>MacPherson		682</string><key>code</key><string>B6, Y10, R8, K8, B28, W6, Y8, R8, K4, R8, Y8, W6, K6, R44, W6</string><key>id</key><string></dict>
+		<dict>MacPherson		1344</string><key>code</key><string>R2, A2, K22, A2, R2, A2, W22, A2, R2</string><key>id</key><string></dict>
+		<dict>MacPherson		1411</string><key>code</key><string>R12, B2, R12, G16, Y2, K12, B8, K2, B4, K2, B8, R8, W2, K2, R2</string><key>id</key><string></dict>
+		<dict>MacPherson		1412</string><key>code</key><string>R12, B4, R12, G20, Y2, K20, B12, K2, B4, K2, B12, R12, W4, K4, R4</string><key>id</key><string></dict>
+		<dict>MacPherson		1666</string><key>code</key><string>C8, T8, DW8, C28, DW20, T4, DT4, T4, DW20, T52, DW6, G56, C26, DW8, C26</string><key>id</key><string></dict>
+		<dict>MacPherson		1690</string><key>code</key><string>R4, W56, K24, W4, K12, Y4</string><key>id</key><string></dict>
+		<dict>MacPherson		1872</string><key>code</key><string>W6, R2, W60, K40, W6, K18, Y2</string><key>id</key><string></dict>
+		<dict>MacPherson (Blue & White)		1868</string><key>code</key><string>W10, R6, W52, B42, W6, B16, Y6</string><key>id</key><string></dict>
+		<dict>MacPherson (Burgundy Dress)		1832</string><key>code</key><string>W8, K4, W50, R42, W6, R16, Y6</string><key>id</key><string></dict>
+		<dict>MacPherson (Dress (Purple))		94</string><key>code</key><string>W10, K6, W62, P52, W8, P20, A8</string><key>id</key><string></dict>
+		<dict>MacPherson (Dress)		1615</string><key>code</key><string>R4, K4, W4, R16, B10, K4, B4, B10, K14, Y4, G20, W26, B6, W26</string><key>id</key><string></dict>
+		<dict>MacPherson (of Cluny)		1830</string><key>code</key><string>W4, K22, W8, K56, W70, R6, W10</string><key>id</key><string></dict>
+		<dict>MacPherson (Red Cluny)		1610</string><key>code</key><string>R12, K6, R58, K46, W8, K14, Y6</string><key>id</key><string></dict>
+		<dict>MacPherson (Red)		1793</string><key>code</key><string>W10, P6, W52, R40, W6, R16, Y6</string><key>id</key><string></dict>
+		<dict>MacPherson (Wilson's No. 43)		1410</string><key>code</key><string>R36, A10, R36, G48, Y6, K38, A20, K6, A6, K6, A20, R36, W8, K10, R10</string><key>id</key><string></dict>
+		<dict>MacPherson of Cluny		906</string><key>code</key><string>G4, P14, Y4, R140, P72, R10, G84, R4, P4, R10</string><key>id</key><string></dict>
+		<dict>MacPherson of Pitmain		547</string><key>code</key><string>B4, R4, K32, B4,R4, N32, R4, B4</string><key>id</key><string></dict>
+		<dict>MacQuarrie		453</string><key>code</key><string>A2, R2, B2, R12, G12, R2, G12, R2, B6, R12, A2, R2</string><key>id</key><string></dict>
+		<dict>MacQuarrie		454</string><key>code</key><string>A4, R8, B4, R102, G88, LR8, R20, LR8, G88, R20, B52, R100, A4, R8</string><key>id</key><string></dict>
+		<dict>MacQuarrie		858</string><key>code</key><string>G4, R6, G4, R104, G4, R4, B56, R4, G84, R4, G4, R6, G4</string><key>id</key><string></dict>
+		<dict>MacQuarrie		872</string><key>code</key><string>G2, R2, G2, R2, G28, R2, K20, R2, G2, R42, G2, R2, K2</string><key>id</key><string></dict>
+		<dict>MacQuarrie		892</string><key>code</key><string>R32, DG2, R2, DG2, R8, DG24</string><key>id</key><string></dict>
+		<dict>MacQuarrie		1402</string><key>code</key><string>R4, A2, R32, B24, R8, G32, R12</string><key>id</key><string></dict>
+		<dict>MacQuarrie		1511</string><key>code</key><string>R8, G10, R4, K12, R36, K4, R8</string><key>id</key><string></dict>
+		<dict>MacQuarrie (Ancient)		553</string><key>code</key><string>B2, R4, K2, R14, G16, R4, G16, R4, K8, R20, B2, R4</string><key>id</key><string></dict>
+		<dict>MacQueen		1209</string><key>code</key><string>K4, R12, K4, R12, K24, Y2</string><key>id</key><string></dict>
+		<dict>MacRae		773</string><key>code</key><string>G24, K6, G24, K6, G24, R4, G6, K2, B6, W2, B6, K2, G6, R4, G24, K6, G24</string><key>id</key><string></dict>
+		<dict>MacRae		799</string><key>code</key><string>R8, K6, G12, W6, G6, K26, B26, K6, B26, K26, G12, R6, G14, K6, G12</string><key>id</key><string></dict>
+		<dict>MacRae		859</string><key>code</key><string>DG16, R4, DG16, R16, B4, R4, B4, R4, B4, R4, B16, R4, W4, R16, R4, B16, R4, B4, R16, W4, R4, DG4, R16, DG16, R4, DG16</string><key>id</key><string></dict>
+		<dict>MacRae		995</string><key>code</key><string>G44, R8, G44, R44, G4, R6, G4, R6, G4, R6, Y4</string><key>id</key><string></dict>
+		<dict>MacRae (Ancient Hunting)		803</string><key>code</key><string>G48, K8, G12, R8, G12, K38, B44, W10</string><key>id</key><string></dict>
+		<dict>MacRae (Hunting)		800</string><key>code</key><string>G52, K8, G12, C8, G12, K52, B52, K6, W14, K6, B52, K52, G52, K6, C14</string><key>id</key><string></dict>
+		<dict>MacRae (Hunting)		807</string><key>code</key><string>W6, K2, P30, K28, H8, C4, H8, K4, H28</string><key>id</key><string></dict>
+		<dict>MacRae (MacCrae)		101</string><key>code</key><string>P50, G12, P50, G52, P4, G4, P8, G4, P4, G52, P4, G4, P8, G4, P4, G52, W6, G14, P58, G12, P58, G14, W6, G52, P10, G14, P10, G52, P50, G12, P50</string><key>id</key><string></dict>
+		<dict>MacRae (Rae)		100</string><key>code</key><string>P28, G6, P28, G28, P2, G2, P2, G28, P2, G2, P4, G2, P2, G28, P32, G6, P32, G28, P6, G6, P6, G28, P28, G6, P28</string><key>id</key><string></dict>
+		<dict>MacRae (Rae)		102</string><key>code</key><string>P54, G12, P54, G56, P4, G4, P8, G4, P4, G56, P4, G4, P8, G4, P4, G56, P62, G12, P62, G56, P10, G14, P10, G56, P54, G12, P54</string><key>id</key><string></dict>
+		<dict>MacRae (The Princes Own)		981</string><key>code</key><string>G20, R4, G20, R18, B2, R2, B4, R2, B2, R18, B2, R2, B4, R2, B2, R18, W2, R8, B22, R4, B22, R8, W2, R18, G4, R8, G4, R18, G10, R6, G8, R6, G6, Y2, G6, R6, G12, W2</string><key>id</key><string></dict>
+		<dict>MacRae (The Princes)		982</string><key>code</key><string>G58, R10, G56, R44, K4, R4, K8, R4, K8, R4, K4, R44, K4, R4, K8, R4, K4, R40, W4, R18, B52, R10, B56, R18, W4, R44, G6, R16, R44, G16, R12, G16, R12, G10, Y6, G10, R14, G24, W4</string><key>id</key><string></dict>
+		<dict>MacRae of Conchra		885</string><key>code</key><string>DG20, R3, DG20, R20, DB3, R3, DB6, R3, DB3, R20, DB3, R3, DB6, R3, DB3, R20, W3, R4, DB20, R4</string><key>id</key><string></dict>
+		<dict>MacRae of Conchra		1260</string><key>code</key><string>K10, W74, R74, W10</string><key>id</key><string></dict>
+		<dict>MacRae of Conchra		1683</string><key>code</key><string>R4, W32, B32, Y4</string><key>id</key><string></dict>
+		<dict>MacRae of Inverinate		2000</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>MacSporran		495</string><key>code</key><string>B34, R6, B8, R10, B40, R6, K40, G40, R10, G8, R6, K6, Y22</string><key>id</key><string></dict>
+		<dict>MacTaggert		408</string><key>code</key><string>B2, R2, B12, K12, G2, A4, G18</string><key>id</key><string></dict>
+		<dict>MacTaggert		409</string><key>code</key><string>B8, R2, B36, K40, G4, B8, G60</string><key>id</key><string></dict>
+		<dict>MacTavish		229</string><key>code</key><string>A2, K12, A12, K4, R24, A4</string><key>id</key><string></dict>
+		<dict>MacTavish		230</string><key>code</key><string>B6, K26, B26, K12, R60, B8</string><key>id</key><string></dict>
+		<dict>MacTavish		797</string><key>code</key><string>G12, K12, G12, B4, R24, G4, R24</string><key>id</key><string></dict>
+		<dict>MacTavish		1439</string><key>code</key><string>R80, A22, W4, K24, G72, R64</string><key>id</key><string></dict>
+		<dict>MacTavish (Hunting)		232</string><key>code</key><string>A6, T52, G8, A26, K26, A4</string><key>id</key><string></dict>
+		<dict>MacTavish (Thomson)		228</string><key>code</key><string>A2, K12, A12, B4, R24, A4</string><key>id</key><string></dict>
+		<dict>MacThomas		407</string><key>code</key><string>B6, C4, B44, G48, LV4, G6</string><key>id</key><string></dict>
+		<dict>MacWhirter		158</string><key>code</key><string>A4, G32, K4, A8, K4, Y8, K4, A8, K4, R32, W4, A4</string><key>id</key><string></dict>
+		<dict>MacWilliam		1417</string><key>code</key><string>R4, B32, R2, K20, G24, T4</string><key>id</key><string></dict>
+		<dict>Malcolm		105</string><key>code</key><string>B8, G4, B24, K24, G24, K4, Y4, K4, A4, K4, G24, K24, B24, R4, B8</string><key>id</key><string></dict>
+		<dict>Malcolm		1976</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Malcolm		1977</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Malcolm (Dress)		1785</string><key>code</key><string>W4, B4, W50, B5, W5, K25, B23, R3, B10, R3, K25, G27, K4, DB4, Y4, K4, G27, K26, W5, B5, W50, B4, W4</string><key>id</key><string></dict>
+		<dict>Matheson		860</string><key>code</key><string>DG16, R8, DG2, R2, R2, DG2, R48, B16, DG8, R2, DG2, R2, DG8, R16, DG2, R2, DG2, R2, B16, DG16, R4, DG8</string><key>id</key><string></dict>
+		<dict>Matheson		1499</string><key>code</key><string>R4, G4, R24, G20, R4, G4, R4, G20, A6, B20, R24, G4, R4</string><key>id</key><string></dict>
+		<dict>Matheson (Hunting)		693</string><key>code</key><string>G16, B8, G2, B2, G2, B48, K16, G8, B2, G2, B2, G8, B16, G2, B2, G2, B2, K16, G16, B4, G8</string><key>id</key><string></dict>
+		<dict>Matheson (Hunting)		902</string><key>code</key><string>G8, R6, G10, B12, R4, G2, R2, G2, R12, G6, R2, G2, R2, G6, B16, G44, R2, G2, R2, G6, R16</string><key>id</key><string></dict>
+		<dict>Maxwell		1500</string><key>code</key><string>R6, G2, R56, K12, R8, G32, R6</string><key>id</key><string></dict>
+		<dict>Maxwell (Hunting)		865</string><key>code</key><string>G6, R2, G56, K12, G8, R32, G6</string><key>id</key><string></dict>
+		<dict>Menzies		1244</string><key>code</key><string>K64, W8, K4, W8, K8, W4, K2, W12</string><key>id</key><string></dict>
+		<dict>Menzies		1440</string><key>code</key><string>R26, A12, W4, G34, R44</string><key>id</key><string></dict>
+		<dict>Menzies		1699</string><key>code</key><string>R72, W8, R6, W8, R12, W4, R2, W24</string><key>id</key><string></dict>
+		<dict>Menzies		1859</string><key>code</key><string>W4, R40, C2, R2, C2, R6, C10, W48, R6, W4, R2, W8</string><key>id</key><string></dict>
+		<dict>Menzies (Black & Red)		1184</string><key>code</key><string>K96, R8, K4, R8, K12, R4, K6, R18</string><key>id</key><string></dict>
+		<dict>Menzies (Black Dress)		1812</string><key>code</key><string>W4, K38, B2, K2, B2, K6, B10, W46, K6, W4, K2, W8</string><key>id</key><string></dict>
+		<dict>Menzies (Green)		788</string><key>code</key><string>G14, K4, G6, K12, G10, K6, G10, K19</string><key>id</key><string></dict>
+		<dict>Menzies (Hunting)		894</string><key>code</key><string>DG96, R8, DG4, R8, DG12, R4, DG6, R18</string><key>id</key><string></dict>
+		<dict>Menzies (Mauve & White)		648</string><key>code</key><string>P120, W10, K4, W11, K3, W5, K3, W19</string><key>id</key><string></dict>
+		<dict>Moncreiffe		963</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Montgomerie		114</string><key>code</key><string>B6, G2, B6, G24</string><key>id</key><string></dict>
+		<dict>Montrose		350</string><key>code</key><string>B2, K2, R24, B10, K12, G24, R24, K2, B2</string><key>id</key><string></dict>
+		<dict>Moray of Abercairney		51</string><key>code</key><string>B12, LB4, K4, R48, LR4, G36, R4, LB4, B12</string><key>id</key><string></dict>
+		<dict>Moray of Abercairney		184</string><key>code</key><string>A4, G2, LR2, G8, LR2, R16</string><key>id</key><string></dict>
+		<dict>More		345</string><key>code</key><string>B120, K30, G20, R4, G20, R4, G20, R4, G40, K2, Y8</string><key>id</key><string></dict>
+		<dict>Morrison		998</string><key>code</key><string>G6, R34, K6, R8, K6, R18, G16, W4, G10</string><key>id</key><string></dict>
+		<dict>Morrison		1083</string><key>code</key><string>K6, G28, K28, G4, B28, R6</string><key>id</key><string></dict>
+		<dict>Morrison (Ancient)		933</string><key>code</key><string>R6, G4, R24, K4, R6, K4, R12, G12, W3, G6</string><key>id</key><string></dict>
+		<dict>Mowat		236</string><key>code</key><string>B48, K6, B10, K46, Y4, K22, G43</string><key>id</key><string></dict>
+		<dict>Mowat		258</string><key>code</key><string>B52, K2, B4, K36, Y4, G32, K32</string><key>id</key><string></dict>
+		<dict>Munro		974</string><key>code</key><string>G4, C4, G4, R32, B2, Y2, R6, B12, R6, Y2, B2, R6, G32, R6, B2, Y2, R48</string><key>id</key><string></dict>
+		<dict>Munro		1204</string><key>code</key><string>K36, R8, K36, R64, W6</string><key>id</key><string></dict>
+		<dict>Munro		1516</string><key>code</key><string>R40, G4, R4, G4, R4, G4, R38, B2, Y2, R4, B8, D4, Y2, B2, R4, G36, R4, B2, Y2, R38</string><key>id</key><string></dict>
+		<dict>Murray		52</string><key>code</key><string>A6, K32, G32, K32, B6, A6</string><key>id</key><string></dict>
+		<dict>Murray		219</string><key>code</key><string>B12, K2, B2, K2, B2, K12, G12, R4, G12, K12, B12, K2, B4</string><key>id</key><string></dict>
+		<dict>Murray		271</string><key>code</key><string>B4, K4, B24, K16, G22, R4</string><key>id</key><string></dict>
+		<dict>Murray of Atholl		265</string><key>code</key><string>B50, K4, B4, K4, B4, K42, G46, R10, G46, K40, B38, R10</string><key>id</key><string></dict>
+		<dict>Murray of Atholl		281</string><key>code</key><string>B24, K4, B4, K4, B4, K24, G24, R6, G24, K24, B24, K2, R6</string><key>id</key><string></dict>
+		<dict>Murray of Elibank		340</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Murray of Tullibardine		1290</string><key>code</key><string>DB6, R5, DB4, R3, DB6, R4, DB4, R5, DB9, R5, DB4, R3, K8, R3, DB4, R36, DB27, R4, G4, R14, G27, R9, DB6, R6, K3</string><key>id</key><string></dict>
+		<dict>Napier		1242</string><key>code</key><string>K8, W4, K4, W4, K4, W8, K4, W4, K8, B24, W2</string><key>id</key><string></dict>
+		<dict>Nicolson		498</string><key>code</key><string>B4, R22, G4, R22, B22, A4, K18, R4, G42, R22, G4, R22, B4</string><key>id</key><string></dict>
+		<dict>Nicolson		1988</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Nicolson (MacNicol)		322</string><key>code</key><string>B20, K2, G2, K2, G2, K2, B20, R6, K20, R6, G20, K2, Y2, K2, W2, K2, G20</string><key>id</key><string></dict>
+		<dict>Nicolson (MacNicol)		1004</string><key>code</key><string>R12, G2, R12, K8, R2, A2, R2, G16, R12, K2, R12, G2</string><key>id</key><string></dict>
+		<dict>Nicolson (MacNicol)		1148</string><key>code</key><string>K4, R16, G4, R16, G28, R4, K12, A2, K14, R16, G4, R16, K4</string><key>id</key><string></dict>
+		<dict>Ogilvie		317</string><key>code</key><string>B12, K4, B12, Y8, K4, R6, Y4, R6, W4, R6, K4, Y4, B6, W4, B6, Y4, K4, R6, W4, R6, K4, Y4, B12, K4, B12, K4, B12, Y4, K4, R6, W4, R6, W4, R6, K12, W2</string><key>id</key><string></dict>
+		<dict>Ogilvie		676</string><key>code</key><string>B48, Y4, K16, G32, K2, G6, K2, G6, R8</string><key>id</key><string></dict>
+		<dict>Ogilvie		677</string><key>code</key><string>A24, Y4, K4, R4, K4, R4, K4, R4, K4, Y16, A12, Y16, K12, R12, W4, R12, W4, R12, K12, Y4, A12, W4, A12, Y4, B4, R4, K4, R16, W4, B4, W4, R16, W4, B4, W4, R16</string><key>id</key><string></dict>
+		<dict>Ogilvie		1589</string><key>code</key><string>R6, K6, R6, K6, Y7, B7, K8, R6, W5, R6, W5, R6, K8, Y8, W7, B7, Y7, K8, R8, K8, R15, W2, K2, W2, R14, K8, R8, K8, Y6, B6, Y6,</string><key>id</key><string></dict>
+		<dict>Ogilvie		2148</string><key>code</key><string>R8, W2, K4, Y4, P8, Y4, G12, Y4, K4, R4, K4, R4, K4, R4, K4, Y8, G16, Y8, K4, R16, W4, R16, W4, R4, K16, Y4, G4, W8, G4, Y28, P2, R4, K2, R28, W2, B4, W2, R28, W4, B8, W4, R8, K12, R4, P12, Y8, G24, Y2, G8</string><key>id</key><string></dict>
+		<dict>Ogilvie (of Inverquharity)		666</string><key>code</key><string>B56, Y2, B4, K52, G48, K2, G4, R6</string><key>id</key><string></dict>
+		<dict>Ogilvie (Ogilvy)		467</string><key>code</key><string>A8, R2, A8, Y2, K2, R12, W2, R8, W2, R12, K2, Y2, A8, W2</string><key>id</key><string></dict>
+		<dict>Ogilvy		287</string><key>code</key><string>DB20, K4, DB20, Y8, K4, R12, W4, R12, W4, R12, K4, Y4, DB12, W4, DB12, Y4, K4, R12, W4, R12, W4, R12, W4, R12, K4, Y4, DB20, K4, DB20, K4, DB20, Y4, K4, W12, W4, R12, W4, R12</string><key>id</key><string></dict>
+		<dict>Ogilvy (or Drummond of Strathallen)		1797</string><key>code</key><string>W8, B8, Y8, K8, R8, W8, R8, W8, R8, K10, Y8, B24, K8, B20, K8, B24, Y10, K10, R10, W10, R10, W10, R10, K18, W2, K8, W2, K18, Y10, B10, W10, B10, Y10, K12, R12, K12</string><key>id</key><string></dict>
+		<dict>Ogilvy of Airlie		234</string><key>code</key><string>R28, W4, DB6, W4, R28, K4, R4, DB4, Y4, A14, W4, A14, W4, A14, Y4, K8, R14, W2, R14, W2, R14, K8, Y10, A14, Y10, K4, R4, K4, R4, K4, R4, K4, Y4, A14, Y4, DB6, Y4, DB6</string><key>id</key><string></dict>
+		<dict>Penman		166</string><key>code</key><string>B10, G10, K2, R6, K2, N72, B12, G12, Y2, B4, Y2, G12, B12, N22</string><key>id</key><string></dict>
+		<dict>Pollock		867</string><key>code</key><string>G6, R2, G56, K12, W8, R32, G6</string><key>id</key><string></dict>
+		<dict>Ramsay		259</string><key>code</key><string>B6, K2, B60, K56, W4, K8</string><key>id</key><string></dict>
+		<dict>Ramsay		1238</string><key>code</key><string>K8, W4, K56, R60, C2, R6</string><key>id</key><string></dict>
+		<dict>Rankin		187</string><key>code</key><string>B72, G20, R4, G20, W4, G20, R4, K20, B28, R4, B24, R6, B4, R4, B8, W4</string><key>id</key><string></dict>
+		<dict>Rankin		188</string><key>code</key><string>B72, G20, R4, G20, W4, G20, R4, G20, K28, R4, B24, R6, B4, R4, B8, W4</string><key>id</key><string></dict>
+		<dict>Rankine		292</string><key>code</key><string>B30, K2, B2, K2, B2, K24, G18, R2, G18, K2, W2, K2, G18, R2, G18, K24, R2, B18, R4, B2, R2, B12, W2</string><key>id</key><string></dict>
+		<dict>Rob Roy		1504</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Robertson		841</string><key>code</key><string>G2, R72, B16, R4, G40, R4</string><key>id</key><string></dict>
+		<dict>Robertson		893</string><key>code</key><string>R6, G2, R2, G2, R36, G2, R2, G48, R36, G2, R2, G2, R2, G30</string><key>id</key><string></dict>
+		<dict>Robertson		1391</string><key>code</key><string>R4, G4, R36, B4, R4, G36, R4, B36, R4, G4, R36, G4, R4</string><key>id</key><string></dict>
+		<dict>Robertson		1501</string><key>code</key><string>R4, G4, R35, P4, R4, G35, R4, P35, R4, P4, R35, G4, R4</string><key>id</key><string></dict>
+		<dict>Robertson		1803</string><key>code</key><string>W2, G4, R36, B4, R4, B36, R4, G36, R4, B4, R36, G4, W2</string><key>id</key><string></dict>
+		<dict>Robertson (Dress Hunting)		1804</string><key>code</key><string>W8, G6, R20, W40, B8, R8, G52, R8, B52, R8, B8, W40, R20, G6, W8</string><key>id</key><string></dict>
+		<dict>Robertson (Dress)		539</string><key>code</key><string>B48, R8, G48, R8, B8, W40, R20, G6, W8</string><key>id</key><string></dict>
+		<dict>Robertson (Hunting)		334</string><key>code</key><string>B36, K20, G18, K4, R4, K4, G18, K20, B18, W4</string><key>id</key><string></dict>
+		<dict>Robertson (Hunting)		336</string><key>code</key><string>B56, K24, G32, K2, R4, K2, G32, K24, B24, K2, W6</string><key>id</key><string></dict>
+		<dict>Robertson of Kindeace		299</string><key>code</key><string>B24, K4, B4, K4, B4, K24, G32, K2, R4, K2, G32, K24, B24, K2, W6</string><key>id</key><string></dict>
+		<dict>Robertson of Struan		530</string><key>code</key><string>B8, R8, G64, B56, R8, B8, R16</string><key>id</key><string></dict>
+		<dict>Robertson of Struan		887</string><key>code</key><string>G8, R8, G40, B42, R4, B4, R12</string><key>id</key><string></dict>
+		<dict>Robinson (Dress)		739</string><key>code</key><string>G2, B32, R14, K2, R14, K2</string><key>id</key><string></dict>
+		<dict>Rose		845</string><key>code</key><string>G8, R64, B18, R12, B4, R6, B4, R24, W6</string><key>id</key><string></dict>
+		<dict>Rose (Hunting)		1226</string><key>code</key><string>K8, W2, G20, K20, B20, R4</string><key>id</key><string></dict>
+		<dict>Rose (White Dress)		1227</string><key>code</key><string>K3, W18, G6, K6, B6, R32</string><key>id</key><string></dict>
+		<dict>Ross		449</string><key>code</key><string>B36, R4, B36, R36, G4, R8, G4, R36, G36, R4, G36, R4, G36, R36, B2, R2, B4, R2, B2, R36</string><key>id</key><string></dict>
+		<dict>Ross		462</string><key>code</key><string>B4, R6, B2, R56, B6, R2, B6, R8, G2, R2, G2, R4, G24, R6</string><key>id</key><string></dict>
+		<dict>Ross		863</string><key>code</key><string>G46, R12, G46, R52, G8, R18, G8, R52, W6, R16, P62, R12, P62, R16, W6, R52, P4, R4, P8, R4, P4, R52, P4, R4, P8, R4, P4, R52, G46, R12, G46</string><key>id</key><string></dict>
+		<dict>Ross		864</string><key>code</key><string>G36, R4, G36, R36, G4, R8, G4, R36, B36, R4, B36, R36, B2, R2, B4, R2, B2, R36, B2, R2, B4, R2, B4, R2, B2, R36, G36, R4, G36</string><key>id</key><string></dict>
+		<dict>Ross		882</string><key>code</key><string>G36, R4, G36, R36, G4, R8, G4, R36, B36, R4, B36, R36, B2, R2, B4, R2, B2, R36</string><key>id</key><string></dict>
+		<dict>Ross		883</string><key>code</key><string>G20, R6, G20, R23, B3, R3, B8, R3, B3, R32, B3, R3, B8, R3, B3, R23, B24, R5, B24, R22, G5, R10, G5, R22, G20, R6, G20, R6, G20, R23, B3, R3, B8, R3, B3, R32</string><key>id</key><string></dict>
+		<dict>Ross		901</string><key>code</key><string>G10, R10, G4, R124, B12, R4, B12, R16, G4, R4, G4, R10, G50, R10</string><key>id</key><string></dict>
+		<dict>Ross		1403</string><key>code</key><string>R28, B2, R2, B4, R2, B2, R20, G20, R4, G20, R4, G20, R20, G4, R12, G4, R20, B20, R4, B20, R4, B20, R20, G4, R12</string><key>id</key><string></dict>
+		<dict>Ross (Hunting Dress)		760</string><key>code</key><string>G8, LG6, G6, LG8, G8, K16, G6, K18, W58, R4, W8, R4</string><key>id</key><string></dict>
+		<dict>Ross (Hunting)		710</string><key>code</key><string>G8, A12, G6, A4, G6, A4, G6, K10, G6, K10, G40, R6, G8, R6</string><key>id</key><string></dict>
+		<dict>Ross (Hunting)		756</string><key>code</key><string>G8, LG4, G6, LG6, G8, K10, G6, K10, G56, R4, G8, R4, G8, R4, G56, K10, G6, K10, G8, LG6, G4, LG4, G8, LG14, G8</string><key>id</key><string></dict>
+		<dict>Ross (Hunting)		757</string><key>code</key><string>G4, LG8, G4, LG2, G2, LG2, G6, K4, G4, K4, G24, R2, G4, R2</string><key>id</key><string></dict>
+		<dict>Russell (Mitchell) Hunter Galbraith))		1094</string><key>code</key><string>K4, G24, K24, R2, B24, W4</string><key>id</key><string></dict>
+		<dict>Ruthven		1521</string><key>code</key><string>R4, G2, R60, B36, G30, W6</string><key>id</key><string></dict>
+		<dict>Scott		4</string><key>code</key><string>Restricted</string><key>id</key><string></dict>
+		<dict>Scott		1005</string><key>code</key><string>G8, R6, K2, R56, G28, R8, G8, W6, G8, R8</string><key>id</key><string></dict>
+		<dict>Scott (Dress)		1007</string><key>code</key><string>G7, R3, K3, W54, G24, R5, G5, W5, G5, R5</string><key>id</key><string></dict>
+		<dict>Scott (Green)		50</string><key>code</key><string>B28, A4, G12, K4</string><key>id</key><string></dict>
+		<dict>Scott (Hunting Special)		763</string><key>code</key><string>DG7, LG4, W2, LG5, LR2, LG16, DG16, LG4, B14, Y2, DG6, W2, DG2, LG8</string><key>id</key><string></dict>
+		<dict>Scott (MacRae)		1564</string><key>code</key><string>R4, K8, B4, W2, K32, W2, B6, W32, B4, W12, R4</string><key>id</key><string></dict>
+		<dict>Shaw		768</string><key>code</key><string>G48, K4, B6, K4, B16, R4</string><key>id</key><string></dict>
+		<dict>Shaw of Tordarroch		352</string><key>code</key><string>A5, K1, R30, P15, R8, G30, R8, P2</string><key>id</key><string></dict>
+		<dict>Shaw of Tordarroch (Hunting)		318</string><key>code</key><string>A5, K1, OG20, P15, R8, OG30, R8, P2</string><key>id</key><string></dict>
+		<dict>Sinclair		1436</string><key>code</key><string>R56, A12, W2, K8, G32, R56</string><key>id</key><string></dict>
+		<dict>Sinclair		1437</string><key>code</key><string>R30, A6, W2, K5, G12, G30</string><key>id</key><string></dict>
+		<dict>Sinclair (Hunting)		889</string><key>code</key><string>G4, R2, G60, K32, W2, B32, R4</string><key>id</key><string></dict>
+		<dict>Sinclair (Hunting)		965</string><key>code</key><string>G12, C4, G26, K12, W4, K32, C6</string><key>id</key><string></dict>
+		<dict>Skene		363</string><key>code</key><string>B48, K8, R6, K8, G48, K8, O8</string><key>id</key><string></dict>
+		<dict>Skene		516</string><key>code</key><string>B12, R6, G2, R6, G24, R6, G2</string><key>id</key><string></dict>
+		<dict>Skene		1049</string><key>code</key><string>K8, B48, K8, R6, K8, G48, K8, O6, K8, G48, R6, K8</string><key>id</key><string></dict>
+		<dict>Skene (of Cromar)		1136</string><key>code</key><string>K4, R37, B37, R2, B37, G37, R37, K4</string><key>id</key><string></dict>
+		<dict>Skene (or Tribe of Mar)		1585</string><key>code</key><string>R2, K4, G32, K4, Y2</string><key>id</key><string></dict>
+		<dict>Skene of Cromar		535</string><key>code</key><string>B4, R40, G40, K42, R2</string><key>id</key><string></dict>
+		<dict>Stephenson		517</string><key>code</key><string>B10, R6, G52, B40, Y6, K40, A4, R10, A4, G40, K12</string><key>id</key><string></dict>
+		<dict>Stewart (Ancient)		159</string><key>code</key><string>B17, G4, K4, G4, B17, R6, K12, R4, K12, R6, G17, K4, B2, K4, G17</string><key>id</key><string></dict>
+		<dict>Stewart (Black Ground)		1061</string><key>code</key><string>K72, B8, K12, Y2, K2, W2, K2, G16, R8, K2, R4, W2</string><key>id</key><string></dict>
+		<dict>Stewart (Prince Charles Edward)		1371</string><key>code</key><string>R28, A8, K12, Y2, K4, W4, K4, G24, R12, K4, R4, W2</string><key>id</key><string></dict>
+		<dict>Stewart Black		62</string><key>code</key><string>DB40, LB12, K16, Y4, K8, W8, K8, DB26, R14, K8, W4</string><key>id</key><string></dict>
+		<dict>Stewart Black		63</string><key>code</key><string>B40, A12, K16, Y4, K8, W8, K8, G26, R14, K8, R6, W4</string><key>id</key><string></dict>
+		<dict>Stewart Black		1073</string><key>code</key><string>W6, R8, K6, R22, G28, K6, W6, K6, Y6, K20, W10, B10, K116</string><key>id</key><string></dict>
+		<dict>Stewart Blue		556</string><key>code</key><string>B66, R16, K24, Y4, K8, W8, K8, G24, B16, K8, B8, W4</string><key>id</key><string></dict>
+		<dict>Stewart Dress		1765</string><key>code</key><string>W78, B6, K12, Y6, K6, W6, K6, G16, R10, K6, R6, W6</string><key>id</key><string></dict>
+		<dict>Stewart Dress		1790</string><key>code</key><string>W62, B8, K12, Y4, K4, W4, K4, G14, R8, K4, R4, W4</string><key>id</key><string></dict>
+		<dict>Stewart Dress (Blue)		1794</string><key>code</key><string>W144, DB40, Y4, DB6, W4, DB6, N32, T12, DB4, T10, W4</string><key>id</key><string></dict>
+		<dict>Stewart Mourning		1126</string><key>code</key><string>K68, N11, K16, N4, K4, N4, K4, N19, K14, W4, K14</string><key>id</key><string></dict>
+		<dict>Stewart Mourning		1247</string><key>code</key><string>K86, W8, K12, W4, K6, W4, K6, W18, K10, W6, K6, W6</string><key>id</key><string></dict>
+		<dict>Stewart of Achnacone (Ancient)		160</string><key>code</key><string>B16, G4, K4, G4, B14, R4, K12, R2, K12, R4, G16, K12, G14</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		428</string><key>code</key><string>B12, R6, B56, A6, B14, G52, R10, G6, R6, G16</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		429</string><key>code</key><string>B8, R4, B41, A4, B11, G41, R7, G4, R4, G11</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		839</string><key>code</key><string>G4, R4, A2, B4, R48, G4, R4, B16, R4, G4, R8, G48, R4, A2, B4, R6</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		842</string><key>code</key><string>G4, R4, A4, K4, R42, G4, R4, B12, R4, G4, R6, G38, R4, A4, K4, R6</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		924</string><key>code</key><string>G4, W4, A4, K4, W46, G4, R4, B14, R4, G4, R6, G40, R4, A4, K4, R6</string><key>id</key><string></dict>
+		<dict>Stewart of Appin		1532</string><key>code</key><string>R6, G2, R4, G2, R36, K8, Y2, K4, W2, B8, G12, R6, K2, R4, W2,</string><key>id</key><string></dict>
+		<dict>Stewart of Appin (Ancient Hunting)		430</string><key>code</key><string>B8, R4, B41, LB4, T11, G41, R7, G4, R4, G11</string><key>id</key><string></dict>
+		<dict>Stewart of Appin (Dress)		481</string><key>code</key><string>B16, R6, B68, LB6, K18, W62, R10, W6, R6, W16</string><key>id</key><string></dict>
+		<dict>Stewart Old		319</string><key>code</key><string>B24, K2, G4, K2, G4, K2, B24, R4, K24, R2, K24, R4, G24, K2, K2, B4, K2, G24</string><key>id</key><string></dict>
+		<dict>Stewart Old		333</string><key>code</key><string>B10, K4, G4, K4, G4, K4, B16, R6, B6, R6, B16, R6, W10, R6</string><key>id</key><string></dict>
+		<dict>Sutherland (42nd)		255</string><key>code</key><string>B4, K4, B12, K12, G12, K4</string><key>id</key><string></dict>
+		<dict>Sutherland (Dress)		295</string><key>code</key><string>B12, K10, B20, K20, G26, K6, G26, K20, W8, B8, W36, B4, W6</string><key>id</key><string></dict>
+		<dict>Sutherland (Dress)		1426</string><key>code</key><string>W10, G4, W46, K14, B8, K6, B6, K6, B22, R4, B4, R6</string><key>id</key><string></dict>
+		<dict>Sutherland (Old)		930</string><key>code</key><string>G12, W4, G48, K24, B6, K4, B4, K4, B24, R2, B2, R6</string><key>id</key><string></dict>
+		<dict>Turnbull (Dress)		1035</string><key>code</key><string>K14, B6, G56, R56, Y6</string><key>id</key><string></dict>
+		<dict>Turnbull (Hunting)		1265</string><key>code</key><string>K14, Y6, G56, B56, W6</string><key>id</key><string></dict>
+		<dict>Urquhart		774</string><key>code</key><string>G2, K2, G16, K16, B16, R2, B16, K16, G2, K2, G2, K2, G16</string><key>id</key><string></dict>
+		<dict>Urquhart		806</string><key>code</key><string>G2, K2, G16, K16, B16, R2, B16, K16, G2, K2, G2, K2, G6, W2</string><key>id</key><string></dict>
+		<dict>Urquhart		1086</string><key>code</key><string>K6, G40, K40, B6, K6, B6, K6, B22, R18</string><key>id</key><string></dict>
+		<dict>Urquhart (White Line)		623</string><key>code</key><string>B4, W2, B24, K3, B3, K3, B8, K24, G48, K3, G3, R2</string><key>id</key><string></dict>
+		<dict>Walker (Newlands)		240</string><key>code</key><string>B18, K18, B18, R4, K40, G26, R4, G8, R4, G8</string><key>id</key><string></dict>
+		<dict>Wallace		1208</string><key>code</key><string>K2, R16, K16, Y2</string><key>id</key><string></dict>
+		<dict>Wallace (Blue Wallace)		46</string><key>code</key><string>A4, B58, A24, G58, W4</string><key>id</key><string></dict>
+		<dict>Watson		307</string><key>code</key><string>B48, K4, B4, R4, B4, K40, G32, T4, G4, Y6</string><key>id</key><string></dict>
+		<dict>Weir		327</string><key>code</key><string>A4, K2, G4, K24, B56, K2, Y2, K16</string><key>id</key><string></dict>
+		<dict>Wemyss		1512</string><key>code</key><string>R8, G2, R48, K8, R8, K24, W2, K24, R8</string><key>id</key><string></dict>
+		<dict>Wilson		179</string><key>code</key><string>B64, G20, R4, G3, R4, G3</string><key>id</key><string></dict>
+		<dict>Wilson		180</string><key>code</key><string>B96, G28, R6, G4, R6, G4</string><key>id</key><string></dict>
+		<dict>Wilson		626</string><key>code</key><string>B45, W4, B6, G6, B6, G6, B6, G37, R6, G6, R6, G6, R6, G6, R6, G39, R27, G6, B6, R12, W4, R30</string><key>id</key><string></dict>
+		<dict>Wilson's No. 158		928</string><key>code</key><string>G42, W4, G8, K34, P28, K6</string></dict>	</array>
+</dict>
+</plist>
+				

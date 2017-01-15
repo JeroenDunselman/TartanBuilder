@@ -1,0 +1,969 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tartans</key>
+	<array>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Ferguson (Old)	</string>
+			<key>id</key>
+			<string>	503	</string>
+			<key>code</key>
+			<string>	B30, R4, G34</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Ferguson (Unidentified)	</string>
+			<key>id</key>
+			<string>	338	</string>
+			<key>code</key>
+			<string>	P144, K80, G46, R8, G46, K4, W8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Ferguson of Athol	</string>
+			<key>id</key>
+			<string>	337	</string>
+			<key>code</key>
+			<string>	B48, K16, G16, R4, G16, K2, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Ferguson of Balquhidder	</string>
+			<key>id</key>
+			<string>	737	</string>
+			<key>code</key>
+			<string>	G4, B24, R2, K24, G24, K4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Ferguson of Balquhidder	</string>
+			<key>id</key>
+			<string>	1068	</string>
+			<key>code</key>
+			<string>	K6, B24, R4, K24, G24, K6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fiddes	</string>
+			<key>id</key>
+			<string>	121	</string>
+			<key>code</key>
+			<string>	P16, G16, P16, R64, LR6, P24, R22, G24</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fiddes	</string>
+			<key>id</key>
+			<string>	122	</string>
+			<key>code</key>
+			<string>	B24, G16, B16, R40, B14, R12, B8, R12, B32, R24, G32</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fitzgerald	</string>
+			<key>id</key>
+			<string>	576	</string>
+			<key>code</key>
+			<string>	B6, R8, W6, R30, B8, R8, B26, R8, G26, R8, B8, R30, W6, R8, B6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fletcher	</string>
+			<key>id</key>
+			<string>	224	</string>
+			<key>code</key>
+			<string>	B22, K6, B6, K6, B6, K22, R6, G26, K6, G26, R6, K22, B22, K6, B6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fletcher	</string>
+			<key>id</key>
+			<string>	257	</string>
+			<key>code</key>
+			<string>	B12, K2, B12, K16, R2, G16, K4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fletcher of Dunans	</string>
+			<key>id</key>
+			<string>	272	</string>
+			<key>code</key>
+			<string>	B12, K2, B12, K16, R2, G16, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	211	</string>
+			<key>code</key>
+			<string>	B16, K2, B4, K2, B4, K12, G16, K2, W4, K2, G16, K12, B16, K2, B4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	213	</string>
+			<key>code</key>
+			<string>	B34, K6, B6, K6, B6, K32, G30, K4, W6, K4, G30, K32, B32, K6, B6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	300	</string>
+			<key>code</key>
+			<string>	B16, K4, B4, K4, B4, K16, G14, K2, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	301	</string>
+			<key>code</key>
+			<string>	B2, K2, B12, K12, G12, K2, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	304	</string>
+			<key>code</key>
+			<string>	B56, K6, B12, K6, B12, K40, T56, K6, W12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes	</string>
+			<key>id</key>
+			<string>	1490	</string>
+			<key>code</key>
+			<string>	R2, G32, K16, G8, K8, Y2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes (Ancient)	</string>
+			<key>id</key>
+			<string>	212	</string>
+			<key>code</key>
+			<string>	B2, K12, B12, K12, G12, K2, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forbes (Dress)	</string>
+			<key>id</key>
+			<string>	293	</string>
+			<key>code</key>
+			<string>	B4, K4, B16, K16, G24, K2, W4, K2, G24, K16, W6, B6, W28, B4, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Forsyth	</string>
+			<key>id</key>
+			<string>	1122	</string>
+			<key>code</key>
+			<string>	K8, G44, Y4, K32, B36, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser	</string>
+			<key>id</key>
+			<string>	1424	</string>
+			<key>code</key>
+			<string>	R2, DB12, R2, DG12, R24, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Arisaid)	</string>
+			<key>id</key>
+			<string>	615	</string>
+			<key>code</key>
+			<string>	B6, W4, B20, G20, W64, G20, W4, B6, W4, B28</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Arisaid)	</string>
+			<key>id</key>
+			<string>	616	</string>
+			<key>code</key>
+			<string>	NB6, W4, NB20, WR20, W64, WR20, W4, NB6, W4, NB28</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Dress)	</string>
+			<key>id</key>
+			<string>	1228	</string>
+			<key>code</key>
+			<string>	K4, W27, G14, R6, K14, R6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Hunting (Dress))	</string>
+			<key>id</key>
+			<string>	603	</string>
+			<key>code</key>
+			<string>	B8, T48, G34, T6, W36, T6, W36, T6, G34, T48, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Hunting)	</string>
+			<key>id</key>
+			<string>	1659	</string>
+			<key>code</key>
+			<string>	R6, T36, G20, T4, B20, T4, B20, T4, G20, T36, W6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Red Dress)	</string>
+			<key>id</key>
+			<string>	1427	</string>
+			<key>code</key>
+			<string>	W8, R20, W50, G38, R8, B36, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Stewart of Athol)	</string>
+			<key>id</key>
+			<string>	392	</string>
+			<key>code</key>
+			<string>	B2, R2, B24, G24, R32, G4, R32, G24, R2, B2, R2, B32</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Stewart of Athol)	</string>
+			<key>id</key>
+			<string>	393	</string>
+			<key>code</key>
+			<string>	B6, R6, B44, G40, R60, G8, R60, G40, R6, B6, R6 ,B56</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser (Yellow)	</string>
+			<key>id</key>
+			<string>	617	</string>
+			<key>code</key>
+			<string>	W4, Y32, G12, Y4, B12, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser of Altyre	</string>
+			<key>id</key>
+			<string>	528	</string>
+			<key>code</key>
+			<string>	B4, R4, G80, R4, B4, R4, B9, R9, B80, R4, B4, R89, B4, R9</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Fraser of Lovat	</string>
+			<key>id</key>
+			<string>	391	</string>
+			<key>code</key>
+			<string>	B2, R2, B24, G24, R32, W4, R32, G24, R2, B2, R2, B32</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Galbraith	</string>
+			<key>id</key>
+			<string>	3006	</string>
+			<key>code</key>
+			<string>	K4, G24, K24, R2, B24, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gayre	</string>
+			<key>id</key>
+			<string>	164	</string>
+			<key>code</key>
+			<string>	B36, G8, K8, W8, G32, B8, G32, W8, K8, R10, G8, W8, G8, R10, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gayre (Arisaidh)	</string>
+			<key>id</key>
+			<string>	176	</string>
+			<key>code</key>
+			<string>	B40, G10, K10, W44, K4, Y4, K4, R12, G8, W8, G6, R8, K4, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gayre (Dress)	</string>
+			<key>id</key>
+			<string>	161	</string>
+			<key>code</key>
+			<string>	A28, G8, K8, W8, G24, A8, G24, W8, K8, R12, G8, W8, G6, A8, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gayre (Hunting)	</string>
+			<key>id</key>
+			<string>	165	</string>
+			<key>code</key>
+			<string>	B32, G8, K8, N44, B10, N44, K6, R10, G8, N8, G8, R8, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies	</string>
+			<key>id</key>
+			<string>	309	</string>
+			<key>code</key>
+			<string>	B64, K24, B24, G12, R12, G36, K4, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies	</string>
+			<key>id</key>
+			<string>	324	</string>
+			<key>code</key>
+			<string>	B176, K30, G18, R24, G40, K6, Y16, K6, G40, R24, G18, K30, B48, K72</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies (Blue Dress)	</string>
+			<key>id</key>
+			<string>	934	</string>
+			<key>code</key>
+			<string>	G4, W8, G4, W56, K26, A20, Y10, A32, K4, R14</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies (Dress Blue)	</string>
+			<key>id</key>
+			<string>	637	</string>
+			<key>code</key>
+			<string>	Y12, K4, A30, R10, A18, K26, W50, B4, W6, B4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies (Dress Green)	</string>
+			<key>id</key>
+			<string>	638	</string>
+			<key>code</key>
+			<string>	A4, W6, A4, W50, K24, G16, R12, G30, K4, Y12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gillies (Dress Red)	</string>
+			<key>id</key>
+			<string>	639	</string>
+			<key>code</key>
+			<string>	A4, W8, A4, W48, K24, R16, G10, R30, K4, Y12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gow	</string>
+			<key>id</key>
+			<string>	1390	</string>
+			<key>code</key>
+			<string>	R16, DG16, R4, B16, R16</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham	</string>
+			<key>id</key>
+			<string>	786	</string>
+			<key>code</key>
+			<string>	G24, K8, G2, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham (Dress)	</string>
+			<key>id</key>
+			<string>	1787	</string>
+			<key>code</key>
+			<string>	W4, B4, W57, B5, W5, K30, G4, A5, G66, A5, G4, K27, B30, K5, B27, K30, W5, B5, W60, B4, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham of Menteith	</string>
+			<key>id</key>
+			<string>	698	</string>
+			<key>code</key>
+			<string>	G36, A4, G8, K28, B24, K6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham of Menteith (Red)	</string>
+			<key>id</key>
+			<string>	1053	</string>
+			<key>code</key>
+			<string>	K8, B32, K32, R8, A6, R52</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham of Montrose	</string>
+			<key>id</key>
+			<string>	746	</string>
+			<key>code</key>
+			<string>	G8, B30, W4, K32, G38, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham of Montrose	</string>
+			<key>id</key>
+			<string>	1044	</string>
+			<key>code</key>
+			<string>	K4, B16, K16, G16, W4, G16, K16</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Graham of Montrose	</string>
+			<key>id</key>
+			<string>	1116	</string>
+			<key>code</key>
+			<string>	K8, G8, W2, G8, K8, B8, K2, B8, K8, G8, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant	</string>
+			<key>id</key>
+			<string>	312	</string>
+			<key>code</key>
+			<string>	B48, K8, B8, K8, B8, K48, G48, R10, G12, K4, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant	</string>
+			<key>id</key>
+			<string>	1386	</string>
+			<key>code</key>
+			<string>	R12, P4, R4, P4, R48, A4, R4, P12, R4, G4, R4, G10, R4, P4, B12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant (Hunting)	</string>
+			<key>id</key>
+			<string>	311	</string>
+			<key>code</key>
+			<string>	B22, K4, B4, K4, B4, K22, G22, R4, G6, K2, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant of Achnarrow	</string>
+			<key>id</key>
+			<string>	1829	</string>
+			<key>code</key>
+			<string>	W24, K6, W56, G12, K8, W4, K4, W28, R22, G6, R8, W8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant of Ballindalloch	</string>
+			<key>id</key>
+			<string>	2149	</string>
+			<key>code</key>
+			<string>	R10, NB6, R6, NB10, R24, LB10, R6, NB20, R6, G6, R6, G32, R6, NB10, R10</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant of Monymusk	</string>
+			<key>id</key>
+			<string>	1495	</string>
+			<key>code</key>
+			<string>	R24, G6, R24, B16, R10, B16, R8, G28, R8, G28, R8, G28, R24</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant of Monymusk	</string>
+			<key>id</key>
+			<string>	1497	</string>
+			<key>code</key>
+			<string>	R24, G6, R24, K18, R10, B32, R8, G32, R6, G32, R6, G32, R24</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant of Rothiemurchus	</string>
+			<key>id</key>
+			<string>	1399	</string>
+			<key>code</key>
+			<string>	R8, B4, R4, B4, R112, B32, R8, G2, R8, G72, R6, G2, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant or Drummond	</string>
+			<key>id</key>
+			<string>	1384	</string>
+			<key>code</key>
+			<string>	R12, B2, R4, B4, R64, A2, R4, B16, R4, G4, R4, G48, R4, B4, R12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Grant or New Bruce	</string>
+			<key>id</key>
+			<string>	1385	</string>
+			<key>code</key>
+			<string>	R12, P2, R4, P4, R39, A2, R4, P11, R6, G4, R6, G45, R4, P4, B10</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gunn	</string>
+			<key>id</key>
+			<string>	708	</string>
+			<key>code</key>
+			<string>	G2, B24, G2, K24, G24, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Gunn	</string>
+			<key>id</key>
+			<string>	795	</string>
+			<key>code</key>
+			<string>	G4, K24, G2, K24, G24, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hamilton (Hunting)	</string>
+			<key>id</key>
+			<string>	138	</string>
+			<key>code</key>
+			<string>	B22, G4, B30, G36, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hamilton (Hunting)	</string>
+			<key>id</key>
+			<string>	139	</string>
+			<key>code</key>
+			<string>	B40, G16, B40, G64, W8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hamilton (Red)	</string>
+			<key>id</key>
+			<string>	477	</string>
+			<key>code</key>
+			<string>	B12, R2, B12, R18, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hay	</string>
+			<key>id</key>
+			<string>	1555	</string>
+			<key>code</key>
+			<string>	R9, G6, Y4, G54, R4, G4, R4, G18, R72, G6, R4, K2, R4, W9</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hay	</string>
+			<key>id</key>
+			<string>	2013	</string>
+			<key>code</key>
+			<string>	Restricted</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hay or Leith	</string>
+			<key>id</key>
+			<string>	1215	</string>
+			<key>code</key>
+			<string>	K6, R2, Y2, K4, R32, G4, G4, R2, Y2, R4, G30, W2, K30, R2, P30, R4, Y2, R2, P4, R32, K4, Y2, R2, K6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hay or Stewart	</string>
+			<key>id</key>
+			<string>	1850	</string>
+			<key>code</key>
+			<string>	W4, R6, K6, R12, G24, K6, W6, K6, Y4, K20, W58, R10, W18</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Henderson (MacKendrick)	</string>
+			<key>id</key>
+			<string>	1762	</string>
+			<key>code</key>
+			<string>	W2, B12, G8, B2, G32, K2, G8, K12, Y2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Home or Hume	</string>
+			<key>id</key>
+			<string>	127	</string>
+			<key>code</key>
+			<string>	B6, G4, B48, K16, R2, K4, R2, K56</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Home or Hume	</string>
+			<key>id</key>
+			<string>	128	</string>
+			<key>code</key>
+			<string>	B3, G6, B72, K18, R6, K6, R6, K72</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hume or Home	</string>
+			<key>id</key>
+			<string>	125	</string>
+			<key>code</key>
+			<string>	B6, G6, B40, R4, K4, R4, K40, G6, K6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hunter	</string>
+			<key>id</key>
+			<string>	789	</string>
+			<key>code</key>
+			<string>	G16, K2, G16, K16, R2, B16, W2, B16, R2, K16</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hunter	</string>
+			<key>id</key>
+			<string>	1095	</string>
+			<key>code</key>
+			<string>	K4, G24, K24, R2, B24, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Hunter of Hunterson	</string>
+			<key>id</key>
+			<string>	719	</string>
+			<key>code</key>
+			<string>	G10, B4,4 G24, R4, B24, W4, G24, R4, G8, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes	</string>
+			<key>id</key>
+			<string>	235	</string>
+			<key>code</key>
+			<string>	A2, K12, A2, G14, K2, G14</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes	</string>
+			<key>id</key>
+			<string>	1109	</string>
+			<key>code</key>
+			<string>	K4, G24, R4, K4, R4, K4, R32, Y4, R6, B12, R16, K2, G16, K2, R6, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes (Dress)	</string>
+			<key>id</key>
+			<string>	360	</string>
+			<key>code</key>
+			<string>	A8, K24, R4, K4, R4, K4, W4, Y24, W4, B6, W12, K6, G4, K4, W6, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes (Hunting)	</string>
+			<key>id</key>
+			<string>	367	</string>
+			<key>code</key>
+			<string>	A6, K36, T6, K8, T6, K6, T36, Y6, T6, B16, T6, B6, G30, K6, T6, W6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes (Hunting)	</string>
+			<key>id</key>
+			<string>	368	</string>
+			<key>code</key>
+			<string>	K10, G72, B14, K60</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes of Cowie	</string>
+			<key>id</key>
+			<string>	353	</string>
+			<key>code</key>
+			<string>	B2, K12, R2, K2, R2, K2, R12, W2, R4, G6, R4, K2, G10, K2, R4, W2, R4, K2, G10, K2, R4, G6, R4, W2, R12, K2, R2, K2, R2, K12, G2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Innes of Moray	</string>
+			<key>id</key>
+			<string>	361	</string>
+			<key>code</key>
+			<string>	A7, K24, R4, K4, R4, K4, R24, Y4, R6, B12, R6, K4,G20, K4, R6, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Inverary	</string>
+			<key>id</key>
+			<string>	772	</string>
+			<key>code</key>
+			<string>	H20, K2, B26, K6, W18, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Irvine	</string>
+			<key>id</key>
+			<string>	733	</string>
+			<key>code</key>
+			<string>	G72, B36, K4, B4, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Jardine of Castlemilk	</string>
+			<key>id</key>
+			<string>	1447	</string>
+			<key>code</key>
+			<string>	R8, B8, Y33, B8, R8, K33, Y33, T33, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Johnston	</string>
+			<key>id</key>
+			<string>	1063	</string>
+			<key>code</key>
+			<string>	K4, B4, K4, B48, G60, K2, G4, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Johnstone	</string>
+			<key>id</key>
+			<string>	1062	</string>
+			<key>code</key>
+			<string>	K6, B6, K6, B44, G52, K4, B2, Y6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Keith and Austin	</string>
+			<key>id</key>
+			<string>	253	</string>
+			<key>code</key>
+			<string>	B8, K8, B8, G18, K4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Kennedy	</string>
+			<key>id</key>
+			<string>	1123	</string>
+			<key>code</key>
+			<string>	K4, G4, Y2, G6, C2, G4, C2, G4, C2, G24, B8, K6, B6, K6, B6, B8, G48, S4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Kennedy	</string>
+			<key>id</key>
+			<string>	1560	</string>
+			<key>code</key>
+			<string>	R12, G10, Y8, G18, R8, G10, R8, G128, B36, K14, B18, K14, B36, G154, Y16</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Kerr	</string>
+			<key>id</key>
+			<string>	791	</string>
+			<key>code</key>
+			<string>	G40, K2, G4, K2, G6, K28, R56, K2, R4, K8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Kerr (Hunting)	</string>
+			<key>id</key>
+			<string>	782	</string>
+			<key>code</key>
+			<string>	G28, K4, G4, K4, G6, K20, B32, K2, B4, K4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lamont	</string>
+			<key>id</key>
+			<string>	216	</string>
+			<key>code</key>
+			<string>	B6, K2, B2, K2, B2, K8, G8, W2, G8, K8, B8, K2, B2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lamont	</string>
+			<key>id</key>
+			<string>	217	</string>
+			<key>code</key>
+			<string>	B20, K2, B2, K2, B4, K16, G20, W2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lamont	</string>
+			<key>id</key>
+			<string>	602	</string>
+			<key>code</key>
+			<string>	P22, T4, P4, T4, P4, T22, G28, W4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lauder	</string>
+			<key>id</key>
+			<string>	709	</string>
+			<key>code</key>
+			<string>	G6, B16, G6, K8, G30, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lendrum or MacFarlane	</string>
+			<key>id</key>
+			<string>	1190	</string>
+			<key>code</key>
+			<string>	K67, R32, K6, R32</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Leslie (Hunting)	</string>
+			<key>id</key>
+			<string>	1113	</string>
+			<key>code</key>
+			<string>	K2, G16, W2, K16, B16, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Leslie or Duncan	</string>
+			<key>id</key>
+			<string>	1142	</string>
+			<key>code</key>
+			<string>	K2, R64, B32, R8, K12, Y2, K12, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay	</string>
+			<key>id</key>
+			<string>	704	</string>
+			<key>code</key>
+			<string>	DG40, DB4, DG4, DB4, DG4, DB16, LDR48, DB4, LDR6</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay	</string>
+			<key>id</key>
+			<string>	711	</string>
+			<key>code</key>
+			<string>	G48, B6, G6, B6, G6, B18, R48, G6, R8</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay	</string>
+			<key>id</key>
+			<string>	758	</string>
+			<key>code</key>
+			<string>	G24, DG2, G2, DG2, G2, K10, R20, K2, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay	</string>
+			<key>id</key>
+			<string>	801	</string>
+			<key>code</key>
+			<string>	G24, K2, G2, K2, G2, C10, R20, K2, R4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay (Dress Red)	</string>
+			<key>id</key>
+			<string>	992	</string>
+			<key>code</key>
+			<string>	G52, R6, G6, R6, G6, R22, W54, R6, W10</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay (Dress)	</string>
+			<key>id</key>
+			<string>	715	</string>
+			<key>code</key>
+			<string>	G66, B8, G8, B8, G8, B24, W66, B6, W12</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lindsay (Dress)	</string>
+			<key>id</key>
+			<string>	1421	</string>
+			<key>code</key>
+			<string>	LDR6, DB4, LDR62, DB28, W4, DB4, W4, DB4, W58</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Livingstone	</string>
+			<key>id</key>
+			<string>	895	</string>
+			<key>code</key>
+			<string>	G28, R8, G4, R4, G4, R8, G38, R60, G4, R18</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Livingstone	</string>
+			<key>id</key>
+			<string>	1003	</string>
+			<key>code</key>
+			<string>	G24, R8, K2, R4, K2, R8, G32, R40, G4, R16</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Livingstone (MacLay or MacLeay)	</string>
+			<key>id</key>
+			<string>	1488	</string>
+			<key>code</key>
+			<string>	R56, G8, K8, G8, K8, A12, Y2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan	</string>
+			<key>id</key>
+			<string>	397	</string>
+			<key>code</key>
+			<string>	P18, LR8, P2, LR8, LG30, R8, P2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan	</string>
+			<key>id</key>
+			<string>	399	</string>
+			<key>code</key>
+			<string>	P32, R12, P4, R12, G56, R12, P4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan	</string>
+			<key>id</key>
+			<string>	591	</string>
+			<key>code</key>
+			<string>	B18, R6, Y2, G18, R6, Y2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan (with Yellow)	</string>
+			<key>id</key>
+			<string>	590	</string>
+			<key>code</key>
+			<string>	P32, R12, Y4, R12, G56, R12, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan or MacLennan	</string>
+			<key>id</key>
+			<string>	490	</string>
+			<key>code</key>
+			<string>	B4, R4, B4, R4, B16, K16, G16, R4, G4, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan or MacLennan	</string>
+			<key>id</key>
+			<string>	1429	</string>
+			<key>code</key>
+			<string>	R12, B6 R4, B4, R4, B32, K24, G32, R2, K2, Y4</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Logan or Skene	</string>
+			<key>id</key>
+			<string>	398	</string>
+			<key>code</key>
+			<string>	B18, R6, B2, R6, G18, R6, B2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lovat or Fraser	</string>
+			<key>id</key>
+			<string>	400	</string>
+			<key>code</key>
+			<string>	P2, R14, P44, R46, P2, R46, G44, R14, P2</string>
+		</dict>
+		<dict>
+			<key>Clan_Name</key>
+			<string>Lovat or Fraser	</string>
+			<key>id</key>
+			<string>	525	</string>
+			<key>code</key>
+			<string>	P4, R20, G72, R16, P38, R160</string>
+		</dict>
+	</array>
+</dict>
+</plist>

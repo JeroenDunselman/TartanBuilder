@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A937C7741E2039CD00829018 /* TartanDef.swift in Sources */ = {isa = PBXBuildFile; fileRef = A937C7731E2039CD00829018 /* TartanDef.swift */; };
+		A937C7771E203A2200829018 /* TartanDefStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = A937C7761E203A2200829018 /* TartanDefStore.swift */; };
 		A93CED941E1CDD41006ACC77 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CED931E1CDD41006ACC77 /* AppDelegate.swift */; };
 		A93CED961E1CDD41006ACC77 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CED951E1CDD41006ACC77 /* ViewController.swift */; };
 		A93CED991E1CDD41006ACC77 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A93CED971E1CDD41006ACC77 /* Main.storyboard */; };
@@ -14,6 +16,11 @@
 		A93CED9E1E1CDD41006ACC77 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A93CED9C1E1CDD41006ACC77 /* LaunchScreen.storyboard */; };
 		A93CEDA91E1CDD42006ACC77 /* TartanTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CEDA81E1CDD41006ACC77 /* TartanTests.swift */; };
 		A93CEDB41E1CDD42006ACC77 /* TartanUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CEDB31E1CDD42006ACC77 /* TartanUITests.swift */; };
+		A93CEDC71E1CDD6C006ACC77 /* Checkerboard.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CEDC11E1CDD6C006ACC77 /* Checkerboard.swift */; };
+		A93CEDCA1E1CDD6C006ACC77 /* Palet.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CEDC41E1CDD6C006ACC77 /* Palet.swift */; };
+		A93CEDCC1E1CDD6C006ACC77 /* ZPattern.swift in Sources */ = {isa = PBXBuildFile; fileRef = A93CEDC61E1CDD6C006ACC77 /* ZPattern.swift */; };
+		A941CAC81E240E72007E18DD /* tartandefs elements as row.rtf in Resources */ = {isa = PBXBuildFile; fileRef = A941CAC71E240E72007E18DD /* tartandefs elements as row.rtf */; };
+		A941CACA1E255BAB007E18DD /* ColorShapeImager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A941CAC91E255BAB007E18DD /* ColorShapeImager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		A937C7731E2039CD00829018 /* TartanDef.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TartanDef.swift; sourceTree = "<group>"; };
+		A937C7761E203A2200829018 /* TartanDefStore.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TartanDefStore.swift; sourceTree = "<group>"; };
 		A93CED901E1CDD41006ACC77 /* Tartan.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Tartan.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A93CED931E1CDD41006ACC77 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A93CED951E1CDD41006ACC77 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +56,11 @@
 		A93CEDAF1E1CDD42006ACC77 /* TartanUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TartanUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A93CEDB31E1CDD42006ACC77 /* TartanUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TartanUITests.swift; sourceTree = "<group>"; };
 		A93CEDB51E1CDD42006ACC77 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A93CEDC11E1CDD6C006ACC77 /* Checkerboard.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Checkerboard.swift; sourceTree = "<group>"; };
+		A93CEDC41E1CDD6C006ACC77 /* Palet.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Palet.swift; sourceTree = "<group>"; };
+		A93CEDC61E1CDD6C006ACC77 /* ZPattern.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ZPattern.swift; sourceTree = "<group>"; };
+		A941CAC71E240E72007E18DD /* tartandefs elements as row.rtf */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.rtf; path = "tartandefs elements as row.rtf"; sourceTree = "<group>"; };
+		A941CAC91E255BAB007E18DD /* ColorShapeImager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorShapeImager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +88,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A937C7721E2039C200829018 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				A937C7761E203A2200829018 /* TartanDefStore.swift */,
+				A93CEDC61E1CDD6C006ACC77 /* ZPattern.swift */,
+				A93CEDC41E1CDD6C006ACC77 /* Palet.swift */,
+				A93CEDC11E1CDD6C006ACC77 /* Checkerboard.swift */,
+				A937C7731E2039CD00829018 /* TartanDef.swift */,
+			);
+			name = Model;
+			sourceTree = "<group>";
+		};
+		A937C7751E2039E300829018 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				A937C7781E203A3400829018 /* Sets */,
+			);
+			name = Data;
+			sourceTree = "<group>";
+		};
+		A937C7781E203A3400829018 /* Sets */ = {
+			isa = PBXGroup;
+			children = (
+				A941CAC71E240E72007E18DD /* tartandefs elements as row.rtf */,
+			);
+			name = Sets;
+			sourceTree = "<group>";
+		};
+		A937C7791E224BAA00829018 /* View Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				A93CED951E1CDD41006ACC77 /* ViewController.swift */,
+				A941CAC91E255BAB007E18DD /* ColorShapeImager.swift */,
+			);
+			name = "View Controllers";
+			sourceTree = "<group>";
+		};
 		A93CED871E1CDD41006ACC77 = {
 			isa = PBXGroup;
 			children = (
@@ -97,8 +148,10 @@
 		A93CED921E1CDD41006ACC77 /* Tartan */ = {
 			isa = PBXGroup;
 			children = (
+				A937C7791E224BAA00829018 /* View Controllers */,
+				A937C7751E2039E300829018 /* Data */,
+				A937C7721E2039C200829018 /* Model */,
 				A93CED931E1CDD41006ACC77 /* AppDelegate.swift */,
-				A93CED951E1CDD41006ACC77 /* ViewController.swift */,
 				A93CED971E1CDD41006ACC77 /* Main.storyboard */,
 				A93CED9A1E1CDD41006ACC77 /* Assets.xcassets */,
 				A93CED9C1E1CDD41006ACC77 /* LaunchScreen.storyboard */,
@@ -238,6 +291,7 @@
 				A93CED9E1E1CDD41006ACC77 /* LaunchScreen.storyboard in Resources */,
 				A93CED9B1E1CDD41006ACC77 /* Assets.xcassets in Resources */,
 				A93CED991E1CDD41006ACC77 /* Main.storyboard in Resources */,
+				A941CAC81E240E72007E18DD /* tartandefs elements as row.rtf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -262,8 +316,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A93CEDC71E1CDD6C006ACC77 /* Checkerboard.swift in Sources */,
+				A93CEDCC1E1CDD6C006ACC77 /* ZPattern.swift in Sources */,
+				A937C7741E2039CD00829018 /* TartanDef.swift in Sources */,
+				A937C7771E203A2200829018 /* TartanDefStore.swift in Sources */,
 				A93CED961E1CDD41006ACC77 /* ViewController.swift in Sources */,
+				A941CACA1E255BAB007E18DD /* ColorShapeImager.swift in Sources */,
 				A93CED941E1CDD41006ACC77 /* AppDelegate.swift in Sources */,
+				A93CEDCA1E1CDD6C006ACC77 /* Palet.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,8 +475,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 447M47227T;
 				INFOPLIST_FILE = Tartan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.onomatopee.Tartan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onomatopee.TartanCollectionShaper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -428,8 +489,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 447M47227T;
 				INFOPLIST_FILE = Tartan/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.onomatopee.Tartan;
+				PRODUCT_BUNDLE_IDENTIFIER = com.onomatopee.TartanCollectionShaper;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
 			};
@@ -512,6 +574,7 @@
 				A93CEDBA1E1CDD42006ACC77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A93CEDBB1E1CDD42006ACC77 /* Build configuration list for PBXNativeTarget "TartanTests" */ = {
 			isa = XCConfigurationList;
@@ -520,6 +583,7 @@
 				A93CEDBD1E1CDD42006ACC77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A93CEDBE1E1CDD42006ACC77 /* Build configuration list for PBXNativeTarget "TartanUITests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +592,7 @@
 				A93CEDC01E1CDD42006ACC77 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
